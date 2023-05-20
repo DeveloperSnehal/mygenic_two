@@ -388,75 +388,101 @@
                 </script>
             </rs-module-wrap>
             <!-- END REVOLUTION SLIDER -->
-</div></div></div></div></div><div class="vc_row wpb_row vc_row-fluid vc_custom_1521552776280 vc_row-has-fill"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner vc_custom_1521340868449"><div class="wpb_wrapper"><div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-3 vc_col-md-6 vc_col-xs-12"><div class="vc_column-inner vc_custom_1521340250483"><div class="wpb_wrapper">            
-            <div class=" ">
-                
-<div class="icon-box-shortcode-wrap style_4 ">
-    <div class="icon-box-content-wrapper">
-            <div class="icon-wrap">
-            <img src="wp-content/uploads/2018/03/icon1.png" alt="Free Delivery">
-        </div>    
-            <div class="icon-content">
-            <div class="icon-title">
-                                <h5>Free Delivery</h5>
-                <p class="icon-description">For all oders over $100</p>
+</div></div></div></div></div>
+<div class="vc_row wpb_row vc_row-fluid vc_custom_1521552776280 vc_row-has-fill">
+    <div class="wpb_column vc_column_container vc_col-sm-12">
+        <div class="vc_column-inner vc_custom_1521340868449">
+            <div class="wpb_wrapper">
+                <div class="vc_row wpb_row vc_inner vc_row-fluid">
+                    <div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-3 vc_col-md-6 vc_col-xs-12">
+                        <div class="vc_column-inner vc_custom_1521340250483">
+                            <div class="wpb_wrapper">            
+                               <div class=" ">
+                                    <div class="icon-box-shortcode-wrap style_4 ">
+                                        <div class="icon-box-content-wrapper">
+                                            <div class="icon-wrap">
+                                                <img src="../clarivo/Images/icons/manufacturing.png" alt="Free Delivery" style="max-width:none !important;">
+                                            </div>    
+                                            <div class="icon-content">
+                                                <div class="icon-title">
+                                                <h5>MANUFACTURING</h5>
+                                                <p class="icon-description">pharmaceutical products including tablets, injections, and anti-cancer capsules.</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>            
+                              </div>
+                          </div>
+                       </div>
+                  </div>
+                  <div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-3 vc_col-md-6 vc_col-xs-12">
+                        <div class="vc_column-inner vc_custom_1521340279949">
+                            <div class="wpb_wrapper">            
+                            <div class=" ">
+                                <div class="icon-box-shortcode-wrap style_4 ">
+                                        <div class="icon-box-content-wrapper">
+                                            <div class="icon-wrap">
+                                                <img src="../clarivo/Images/icons/exporting.png" alt="30 Days Return" style="max-width:none !important;">
+                                            </div>    
+                                            <div class="icon-content">
+                                                <div class="icon-title">
+                                                    <h5>EXPORTING</h5>
+                                                    <p class="icon-description">Export their pharmaceutical products to a range of global markets.</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>           
+                              </div>
+                          </div>
+                      </div>
+                 </div>
+                 <div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-3 vc_col-md-6 vc_col-xs-12">
+                        <div class="vc_column-inner vc_custom_1521340328485">
+                            <div class="wpb_wrapper">            
+                              <div class=" ">
+                                    <div class="icon-box-shortcode-wrap style_4 ">
+                                        <div class="icon-box-content-wrapper">
+                                            <div class="icon-wrap">
+                                                <img src="../clarivo/Images/icons/quality control.png" alt="Secure Payment" style="max-width:none !important;">
+                                            </div>    
+                                            <div class="icon-content">
+                                                <div class="icon-title">
+                                                    <h5>QUALITY CONTROL</h5>
+                                                    <p class="icon-description">System in place to ensure that their products meet industry standards and regulations.</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>            
+                              </div>
+                         </div>
+                     </div>
+                </div>
+                <div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-3 vc_col-md-6 vc_col-xs-12">
+                    <div class="vc_column-inner vc_custom_1521340354718">
+                        <div class="wpb_wrapper">            
+                            <div class=" ">
+                                <div class="icon-box-shortcode-wrap style_4 ">
+                                    <div class="icon-box-content-wrapper">
+                                        <div class="icon-wrap">
+                                            <img src="../clarivo/Images/icons/247_Support -1.png" alt="24/7 Support" style="max-width:none !important;">
+                                        </div>    
+                                        <div class="icon-content">
+                                            <div class="icon-title">
+                                                <h5>24/7 Support</h5>
+                                                <p class="icon-description">pharmaceutical support available. Get prompt assistance for all your medical needs.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>            
                             </div>
+                       </div>
+                    </div>
+               </div>
+           </div>
         </div>
-    </div>
-</div>            </div>
-            
-        </div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-3 vc_col-md-6 vc_col-xs-12"><div class="vc_column-inner vc_custom_1521340279949"><div class="wpb_wrapper">            
-            <div class=" ">
-                
-<div class="icon-box-shortcode-wrap style_4 ">
-    <div class="icon-box-content-wrapper">
-            <div class="icon-wrap">
-            <img src="wp-content/uploads/2018/03/icon2.png" alt="30 Days Return">
-        </div>    
-            <div class="icon-content">
-            <div class="icon-title">
-                                <h5>30 Days Return</h5>
-                <p class="icon-description">If goods have problems</p>
-                            </div>
-        </div>
-    </div>
-</div>            </div>
-            
-        </div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-3 vc_col-md-6 vc_col-xs-12"><div class="vc_column-inner vc_custom_1521340328485"><div class="wpb_wrapper">            
-            <div class=" ">
-                
-<div class="icon-box-shortcode-wrap style_4 ">
-    <div class="icon-box-content-wrapper">
-            <div class="icon-wrap">
-            <img src="wp-content/uploads/2018/03/icon3.png" alt="Secure Payment">
-        </div>    
-            <div class="icon-content">
-            <div class="icon-title">
-                                <h5>Secure Payment</h5>
-                <p class="icon-description">100% Sercure Payment</p>
-                            </div>
-        </div>
-    </div>
-</div>            </div>
-            
-        </div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-3 vc_col-md-6 vc_col-xs-12"><div class="vc_column-inner vc_custom_1521340354718"><div class="wpb_wrapper">            
-            <div class=" ">
-                
-<div class="icon-box-shortcode-wrap style_4 ">
-    <div class="icon-box-content-wrapper">
-            <div class="icon-wrap">
-            <img src="wp-content/uploads/2018/03/icon4.png" alt="24/7 Support">
-        </div>    
-            <div class="icon-content">
-            <div class="icon-title">
-                                <h5>24/7 Support</h5>
-                <p class="icon-description">Delicated Support</p>
-                            </div>
-        </div>
-    </div>
- </div>            </div>
-            
- </div></div></div></div></div></div></div></div>
+   </div>
+</div>
+</div>
 
 <main class="haru-page">
     <div class="vc_row wpb_row vc_row-fluid">   
