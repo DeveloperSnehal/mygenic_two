@@ -232,36 +232,29 @@ var wc_add_to_cart_params = {"ajax_url":"\/clarivo\/wp-admin\/admin-ajax.php","w
             <div id="haru-nav-mobile-menu" class="haru-mobile-header-nav menu-mobile-fly">
                 <div class="mobile-menu-header">Menu<span class="mobile-menu-close"></span></div>
                     <ul id="menu-mobile-menu" class="haru-nav-mobile-menu">
-						<li id="menu-item-mobile-1079" class="haru-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-882 current_page_item current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children level-0 "><a href="index.html">Home</a><b class="menu-caret"></b>
-							<ul class="sub-menu" style="">
-								<li id="menu-item-mobile-1063" class="haru-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-882 current_page_item level-1 "><a href="index.html">Home 1</a></li>
-								<li id="menu-item-mobile-1067" class="haru-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="home-2/index.html">Home 2</a></li>
-								<li id="menu-item-mobile-1064" class="haru-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="home-3/index.html">Home 3</a></li>
-								<li id="menu-item-mobile-1065" class="haru-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="home-4/index.html">Home 4</a></li>
-								<li id="menu-item-mobile-1066" class="haru-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="home-5/index.html">Home 5</a></li>
+				     	<li id="menu-item-1080" class="haru-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page menu-item-home  page_item page-item-882  menu-item-has-children level-0 ">
+							<a href="index.php">Home</a><b class="menu-caret"></b>
+                        </li>
+						<li id="menu-item-1080" class="haru-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page menu-item-home  page_item page-item-882  menu-item-has-children level-0 ">
+							<a href="about-us.php">About Us</a><b class="menu-caret"></b>
+                        </li>
+						<li id="menu-item-585" class="haru-menu menu_style_dropdown   menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children level-0 ">
+							<a href="#">Our Products</a><b class="menu-caret"></b>
+						</li>
+						<li id="menu-item-23" class="haru-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children level-0 "><a href="#">Services</a><b class="menu-caret"></b>
+							<ul class="sub-menu animated menu_fadeInUp" style="">
+								<li id="menu-item-730" class="haru-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-post level-1 "><a href="#">Contract Manufacturer</a></li>
+								<li id="menu-item-730" class="haru-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-post level-1 "><a href="#">Third Party Pharma Manufacturer</a></li>
+								<li id="menu-item-730" class="haru-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-post level-1 "><a href="#">Quality Medicine Supplier</a></li>
+								<li id="menu-item-730" class="haru-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-post level-1 "><a href="#">Leading Pharmaceutical Exporter</a></li>
+								<li id="menu-item-730" class="haru-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-post level-1 "><a href="#">Research and Development</a></li>
 							</ul>
+                        </li>
+						<li id="menu-item-22" class="haru-menu haru_megamenu menu_style_column mega-col-columns-4   menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children level-0 ">
+							<a href="#">How We Do?</a><b class="menu-caret"></b>
 						</li>
-						<li id="menu-item-mobile-850" class="haru-menu menu_style_dropdown   menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children level-0 "><a href="#">Clarivo</a><b class="menu-caret"></b>
-						<ul class="sub-menu" style="">
-							<li id="menu-item-mobile-851" class="haru-menu menu_style_dropdown   menu-item menu-item-type-post_type_archive menu-item-object-haru_department level-1 "><a href="department/index.html">Departments</a></li>
-							<li id="menu-item-mobile-852" class="haru-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="our-doctor/index.html">Our Doctor</a></li>
-							<li id="menu-item-mobile-854" class="haru-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-haru_doctor level-1 "><a href="doctor/dr-mina-fletcher/index.html">Single Doctor</a></li>
-							<li id="menu-item-mobile-853" class="haru-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="timetable/index.html">TimeTable</a></li>
-						</ul>
-						</li>
-						<li id="menu-item-mobile-34" class="haru-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children level-0 "><a href="shop/index.html">Shop</a><b class="menu-caret"></b>
-						<ul class="sub-menu" style="">
-							<li id="menu-item-mobile-31" class="haru-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="my-account/index.html">My account</a></li>
-							<li id="menu-item-mobile-33" class="haru-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="cart/index.html">Cart</a></li>
-							<li id="menu-item-mobile-32" class="haru-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="checkout/index.html">Checkout</a></li>
-							<li id="menu-item-mobile-30" class="haru-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="wishlist/index.html">Wishlist</a></li>
-						</ul>
-						</li>
-						<li id="menu-item-mobile-1069" class="haru-menu menu_style_dropdown   menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children level-0 "><a href="#">Pages</a><b class="menu-caret"></b>
-						<ul class="sub-menu" style="">
-							<li id="menu-item-mobile-1071" class="haru-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="about-us/index.html">About Us</a></li>
-							<li id="menu-item-mobile-1070" class="haru-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="contact-us/index.html">Contact Us</a></li>
-						</ul>
+						<li id="menu-item-557" class="haru-menu menu_style_dropdown   menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children level-0 ">
+							<a href="#">Contact Us</a><b class="menu-caret"></b>
 						</li>
                    </ul>   
 		      </div>
@@ -309,7 +302,7 @@ var wc_add_to_cart_params = {"ajax_url":"\/clarivo\/wp-admin\/admin-ajax.php","w
 									<a href="index.php">Home</a><b class="menu-caret"></b>
                                </li>
 							   <li id="menu-item-1080" class="haru-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page menu-item-home  page_item page-item-882 current_page_item current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children level-0 ">
-									<a href="#">About Us</a><b class="menu-caret"></b>
+									<a href="about-us.php">About Us</a><b class="menu-caret"></b>
                                </li>
 								<li id="menu-item-585" class="haru-menu menu_style_dropdown   menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children level-0 ">
 									<a href="#">Our Products</a><b class="menu-caret"></b>

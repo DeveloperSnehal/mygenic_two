@@ -107,10 +107,10 @@
 												<div class="footer-link-content">
 													<ul class="link-list">
 														<li>
-															<a href="#" target="_self">Home</a>
+															<a href="index.php" target="_self">Home</a>
 														</li>
 														<li>
-															<a href="#" target="_self">About Us</a>
+															<a href="about-us.php" target="_self">About Us</a>
 														</li>
 														<li>
 															<a href="#" target="_self">Our Products</a>
