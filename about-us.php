@@ -82,7 +82,7 @@
                                                                 <div class="tab-toggle active">
                                                                     <div class="sub-content">
                                                                         <div class="department-doctors">
-                                                                             <h2 class="info-title">OUR MISSION</h2>
+                                                                             <h2 class="info-title" style="color: #18a0b1;">OUR MISSION</h2>
                                                                             <div class="doctor-list slider-for">
                                                                                 <div class="doctor-item">
                                                                                     <div class="doctor-image">
@@ -108,7 +108,7 @@
                                                                 <div class="tab-toggle active">
                                                                     <div class="sub-content">
                                                                         <div class="department-doctors">
-                                                                             <h2 class="info-title">OUR VISION</h2>
+                                                                             <h2 class="info-title" style="color: #18a0b1;">OUR VISION</h2>
                                                                             <div class="doctor-list slider-for">
                                                                                 <div class="doctor-item">
                                                                                     <div class="doctor-image">
@@ -205,7 +205,7 @@
                                                                                 </a>
                                                                                 <div class="icon-content">
                                                                                     <h5 class="icon-title">
-                                                                                        <a href="#" title="" target="_self"> Blood </a>
+                                                                                        <a href="#" title="" target="_self"> FAIR DEALINGS </a>
                                                                                     </h5>
                                                                                     <p class="icon-description"> We help you take care your teeth to do the best. Mollitia quasi qui inventore, cumque nulla rerum consem adipisicing elit!</p>
                                                                                 </div>
@@ -216,8 +216,8 @@
                                                             </div>
                                                         </div>
                                                     </div>
-                                                    <div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1515381225329">
-                                                        <div class="wpb_column vc_column_container vc_col-sm-4">
+                                                    <div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1515381225329" style="display: grid;place-self: center;">
+                                                        <div class="wpb_column vc_column_container vc_col-sm-4" style="">
                                                             <div class="vc_column-inner">
                                                                 <div class="wpb_wrapper">
                                                                     <div class=" ">
@@ -230,7 +230,7 @@
                                                                                 </a>
                                                                                 <div class="icon-content">
                                                                                     <h5 class="icon-title">
-                                                                                        <a href="#" title="" target="_self"> General Care </a>
+                                                                                        <a href="#" title="" target="_self"> ETHICAL BUSINESS DEALINGS </a>
                                                                                     </h5>
                                                                                     <p class="icon-description"> We help you take care your teeth to do the best. Mollitia quasi qui inventore, cumque nulla rerum consem adipisicing elit!</p>
                                                                                 </div>
@@ -240,7 +240,7 @@
                                                                 </div>
                                                             </div>
                                                         </div>
-                                                        <div class="wpb_column vc_column_container vc_col-sm-4">
+                                                        <div class="wpb_column vc_column_container vc_col-sm-4" style="place-self: center;">
                                                             <div class="vc_column-inner">
                                                                 <div class="wpb_wrapper">
                                                                     <div class=" ">
@@ -253,32 +253,9 @@
                                                                                 </a>
                                                                                 <div class="icon-content">
                                                                                     <h5 class="icon-title">
-                                                                                        <a href="#" title="" target="_self"> Ear care </a>
+                                                                                        <a href="#" title="" target="_self"> COMPETITIVE PRICING </a>
                                                                                     </h5>
                                                                                     <p class="icon-description">We help you take care your teeth to do the best. Mollitia quasi qui inventore, cumque nulla rerum consem adipisicing elit!</p>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <div class="wpb_column vc_column_container vc_col-sm-4">
-                                                            <div class="vc_column-inner">
-                                                                <div class="wpb_wrapper">
-                                                                    <div class=" ">
-                                                                        <div class="icon-box-shortcode-wrap style_1 ">
-                                                                            <div class="icon-box-container">
-                                                                                <a href="#" title="" target="_self">
-                                                                                    <div class="icon-wrap" style="color:#75b239">
-                                                                                        <span class="icofont icofont-baby"></span>
-                                                                                    </div>
-                                                                                </a>
-                                                                                <div class="icon-content">
-                                                                                    <h5 class="icon-title">
-                                                                                        <a href="#" title="" target="_self"> Baby Care </a>
-                                                                                    </h5>
-                                                                                    <p class="icon-description"> We help you take care your teeth to do the best. Mollitia quasi qui inventore, cumque nulla rerum consem adipisicing elit!</p>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
