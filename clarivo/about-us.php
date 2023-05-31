@@ -279,40 +279,223 @@
 </div>
 <!-- Close HARU Content Main -->
 
-
-<div class="haru-archive-department">
-    <div class="container ">
-        <div class="row">
-            <!-- Archive content -->
-            <div class="archive-sidebar right-sidebar col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                <section id="text-7" class="widget-container widget_text">
-                    <div class="textwidget">
-                        <div class="emergency-case">
-                            <div class="emergency-content">
-                                <p class="emer-phone text-center">FACTSHEET</p>
+<!--------------------------------FACTSHEET---------------------------------------------->
+<section id="ourproducts" class="section-bg">
+        <div class="container">
+            <div class="row">
+               <!-------------second-colum----------------->
+                <div class="col-lg-12 col-md-12 col-sm-12 mt-2 card" data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-duration="2000">
+                    <div class="row">
+                        <h3 style="font-size: 30px;color: #18a0b1;text-align: center text-align: left" class="vc_custom_heading heading_style_1">FACTSHEET</h3>
+                        <div class="container">
+                            <div class="row px-5">
+                                <h5 class="fw-bolder text-decoration-underline">Basic Information</h5> 
+                            </div>
+                        </div>
+                        <div class="container">
+                            <div class="row px-5">
+                                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                                    <p class="fw-bold">Nature of Business:</p>
+                                </div>
+                                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                                    <p>Exporter</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="container">
+                            <div class="row px-5">
+                                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                                    <p class="fw-bold">Additional Business:</p>
+                                </div>
+                                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                                    <p>
+                                        Wholesaler<br>
+                                        Distributor<br>
+                                        Service Provider<br>
+                                        Manufacturer
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="container">
+                            <div class="row px-5">
+                                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                                    <p class="fw-bold">Company CEO:</p>
+                                </div>
+                                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                                    <p>Namrata Patil</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="container">
+                            <div class="row px-5">
+                                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                                    <p class="fw-bold">Registered Address:</p>
+                                </div>
+                                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                                    <p>Office No- 2 Plot No- 98, Sector 35 Dolphin Platinum Kamothe, Navi Mumbai, Raigarh, Navi Mumbai - 410209, Maharashtra, India</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="container">
+                            <div class="row px-5">
+                                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                                    <p class="fw-bold">Total Number of Employees:</p>
+                                </div>
+                                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                                    <p>Upto 10 People</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="container">
+                            <div class="row px-5">
+                                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                                    <p class="fw-bold">Year of Establishment:</p>
+                                </div>
+                                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                                    <p>2022</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="container">
+                            <div class="row px-5">
+                                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                                    <p class="fw-bold">Legal Status of Firm:</p>
+                                </div>
+                                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                                    <p>Limited Company (Ltd. / Pvt. Ltd.)</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="container">
+                            <div class="row px-5">
+                                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                                    <p class="fw-bold">Annual Turnover:</p>
+                                </div>
+                                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                                    <p>Rs. 10 - 25 Crore</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="container">
+                            <div class="row px-5">
+                                <h5 class="fw-bolder text-decoration-underline">Trade & Market </h5>
+                            </div>
+                        </div>
+                        <div class="container">
+                            <div class="row px-5">
+                                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                                    <p class="fw-bold"> Export Percentage:</p>
+                                </div>
+                                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                                    <p> upto 20%</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="container">
+                            <div class="row px-5">
+                                <h5 class="fw-bolder text-decoration-underline">Statutory Profile</h5>
+                            </div>
+                        </div>
+                        <div class="container">
+                            <div class="row px-5">
+                                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                                    <p class="fw-bold">Import Export Code (IEC):</p>
+                                </div>
+                                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                                    <p>  AATCA*****</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="container">
+                            <div class="row px-5">
+                                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                                    <p class="fw-bold"> Tan No.:</p>
+                                </div>
+                                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                                    <p> BPLA1***** </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="container">
+                            <div class="row px-5">
+                                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                                    <p class="fw-bold">GST No.:</p>
+                                </div>
+                                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                                    <p>27AATCA8561A1ZH </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="container">
+                            <div class="row px-5">
+                                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                                    <p class="fw-bold">CIN No.:</p>
+                                </div>
+                                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                                    <p>U85100MH2020PTC343851</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="container">
+                            <div class="row px-5">
+                                <h5 class="fw-bolder text-decoration-underline">Packaging/Payment and Shipment Details</h5>
+                            </div>
+                        </div>
+                        <div class="container">
+                            <div class="row px-5">
+                                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                                    <p class="fw-bold">Payment Mode:</p>
+                                </div>
+                                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                                    <p>Cash<br>Credit Card <br> Bank Transfer <br> Cheque <br> DD <br> Online <br></p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="container">
+                            <div class="row px-5">
+                                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                                    <p class="fw-bold">Shipment Mode:</p>
+                                </div>
+                                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                                    <p> By Road</p>
+                                </div>
                             </div>
                         </div>
                     </div>
-                </section>
-                <section id="text-8" class="widget-container widget_text">
-                    <div class="textwidget">
-                        <div class="opening-hours">
-                            <h2>Basic Information</h2>
-                            <ul>
-                                <li>Nature of Business:<span>Exporter</span>
-                                <li>Additional Business:<span>Wholesaler</span><br><span>Distributor</span><br><span>Service Provider</span><br><span>Manufacturer</span><br>
-                                <li>Sunday:<span>9.00 &#8211; 17.00</span>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </section>
+                </div>
             </div>
         </div>
-    </div>
-</div>
-<!-- Close HARU Content Main -->
+    </section>
+</section>
 
+
+<!-------------------------Photo Gallery---------------------------------------->
+<section id="about-company" class="section-bg">
+            <div class="container">
+                <div class="section-head">
+                    <h2 style="font-size: 30px;color: #18a0b1;text-align: center text-align: left" class="vc_custom_heading heading_style_1">CERTIFICATES</h2>
+                </div>
+                <div class="slider">
+                    <div class="mask">
+                        <ul>
+                            <li class="anim1">
+                                <img src="../clarivo/Images/certificates/certificate-1.png" alt="" class="img-fluid">
+                            </li>
+                            <li class="anim2">
+                                <img src="../clarivo/Images/certificates/certificate-2.jpg" alt="" class="img-fluid">
+                            </li>
+                            <li class="anim3">
+                                <img src="../clarivo/Images/certificates/certificate-4.png" alt="" class="img-fluid">
+                            </li>
+                            <li class="anim4">
+                                <img src="../clarivo/Images/certificates/certificate-5.png" alt="" class="img-fluid">
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>
 
 
 
