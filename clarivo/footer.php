@@ -122,7 +122,7 @@
 															<a href="#" target="_self">How We Do?</a>
 														</li>
 														<li>
-															<a href="#" target="_self">Contact Us</a>
+															<a href="contact-us.php" target="_self">Contact Us</a>
 														</li>
 													</ul>
 												</div>

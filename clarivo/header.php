@@ -320,7 +320,7 @@ var wc_add_to_cart_params = {"ajax_url":"\/clarivo\/wp-admin\/admin-ajax.php","w
 									<a href="#">How We Do?</a><b class="menu-caret"></b>
 								</li>
 								<li id="menu-item-557" class="haru-menu menu_style_dropdown   menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children level-0 ">
-									<a href="#">Contact Us</a><b class="menu-caret"></b>
+									<a href="contact-us.php">Contact Us</a><b class="menu-caret"></b>
 								</li>
                           </ul>                       
                       </div>
