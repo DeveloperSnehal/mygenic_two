@@ -4623,7 +4623,7 @@ body #haru-main {
   background: transparent;
   border: 2px solid #e1e1e1 !important;
   border: none;
-  color: #75b239;
+  color: #18a0b1;
   font-weight: 700;
   margin-top: 25px;
   padding: 8px 30px;
@@ -4633,6 +4633,7 @@ body #haru-main {
   -webkit-transition: all 0.3s;
   -o-transition: all 0.3s;
   transition: all 0.3s;
+  margin-bottom: 15px;
 }
 
 @media screen and (max-width: 767px) {
@@ -4642,8 +4643,8 @@ body #haru-main {
 }
 
 .contact-form .contact-submit input:hover {
-  background-color: #75b239 !important;
-  border: 2px solid #75b239 !important;
+  background-color: #18a0b1 !important;
+  border: 2px solid #18a0b1 !important;
   color: #fff;
   -webkit-transition: all 0.3s;
   -o-transition: all 0.3s;
@@ -4700,7 +4701,7 @@ body #haru-main {
 .contact-form input[type="email"]:focus,
 .contact-form textarea:focus {
   outline: none;
-  border: 1px solid #75b239;
+  border: 1px solid #18a0b1;
 }
 
 @media screen and (max-width: 991px) {
