@@ -244,7 +244,7 @@ var wc_add_to_cart_params = {"ajax_url":"\/clarivo\/wp-admin\/admin-ajax.php","w
 						<li id="menu-item-23" class="haru-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children level-0 "><a href="#">Services</a><b class="menu-caret"></b>
 							<ul class="sub-menu animated menu_fadeInUp" style="">
 								<li id="menu-item-730" class="haru-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-post level-1 "><a href="contract-manufacturer.php">Contract Manufacturer</a></li>
-								<li id="menu-item-730" class="haru-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-post level-1 "><a href="#">Third Party Pharma Manufacturer</a></li>
+								<li id="menu-item-730" class="haru-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-post level-1 "><a href="third-party-pharma.php">Third Party Pharma Manufacturer</a></li>
 								<li id="menu-item-730" class="haru-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-post level-1 "><a href="#">Quality Medicine Supplier</a></li>
 								<li id="menu-item-730" class="haru-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-post level-1 "><a href="#">Leading Pharmaceutical Exporter</a></li>
 								<li id="menu-item-730" class="haru-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-post level-1 "><a href="#">Research and Development</a></li>
@@ -310,7 +310,7 @@ var wc_add_to_cart_params = {"ajax_url":"\/clarivo\/wp-admin\/admin-ajax.php","w
 								<li id="menu-item-23" class="haru-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children level-0 "><a href="#">Services</a><b class="menu-caret"></b>
 									<ul class="sub-menu animated menu_fadeInUp" style="">
 										<li id="menu-item-730" class="haru-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-post level-1 "><a href="contract-manufacturer.php">Contract Manufacturer</a></li>
-										<li id="menu-item-730" class="haru-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-post level-1 "><a href="#">Third Party Pharma Manufacturer</a></li>
+										<li id="menu-item-730" class="haru-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-post level-1 "><a href="third-party-pharma.php">Third Party Pharma Manufacturer</a></li>
 										<li id="menu-item-730" class="haru-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-post level-1 "><a href="#">Quality Medicine Supplier</a></li>
 										<li id="menu-item-730" class="haru-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-post level-1 "><a href="#">Leading Pharmaceutical Exporter</a></li>
 										<li id="menu-item-730" class="haru-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-post level-1 "><a href="#">Research and Development</a></li>

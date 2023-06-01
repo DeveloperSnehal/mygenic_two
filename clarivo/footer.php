@@ -116,7 +116,7 @@
 															<a href="#" target="_self">Our Products</a>
 														</li>
 														<li>
-															<a href="#" target="_self">Services</a>
+															<a href="contract-manufacturer.php" target="_self">Services</a>
 														</li>
 														<li>
 															<a href="how-we-do.php" target="_self">How We Do?</a>
