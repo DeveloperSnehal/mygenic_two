@@ -113,7 +113,7 @@
 															<a href="about-us.php" target="_self">About Us</a>
 														</li>
 														<li>
-															<a href="#" target="_self">Our Products</a>
+															<a href="our-product.php" target="_self">Our Products</a>
 														</li>
 														<li>
 															<a href="contract-manufacturer.php" target="_self">Services</a>

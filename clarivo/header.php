@@ -239,7 +239,7 @@ var wc_add_to_cart_params = {"ajax_url":"\/clarivo\/wp-admin\/admin-ajax.php","w
 							<a href="about-us.php">About Us</a><b class="menu-caret"></b>
                         </li>
 						<li id="menu-item-585" class="haru-menu menu_style_dropdown   menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children level-0 ">
-							<a href="#">Our Products</a><b class="menu-caret"></b>
+							<a href="our-product.php">Our Products</a><b class="menu-caret"></b>
 						</li>
 						<li id="menu-item-23" class="haru-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children level-0 "><a href="#">Services</a><b class="menu-caret"></b>
 							<ul class="sub-menu animated menu_fadeInUp" style="">
@@ -305,7 +305,7 @@ var wc_add_to_cart_params = {"ajax_url":"\/clarivo\/wp-admin\/admin-ajax.php","w
 									<a href="about-us.php">About Us</a><b class="menu-caret"></b>
                                </li>
 								<li id="menu-item-585" class="haru-menu menu_style_dropdown   menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children level-0 ">
-									<a href="#">Our Products</a><b class="menu-caret"></b>
+									<a href="our-product.php">Our Products</a><b class="menu-caret"></b>
 								</li>
 								<li id="menu-item-23" class="haru-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children level-0 "><a href="#">Services</a><b class="menu-caret"></b>
 									<ul class="sub-menu animated menu_fadeInUp" style="">
