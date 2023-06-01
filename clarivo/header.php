@@ -245,7 +245,7 @@ var wc_add_to_cart_params = {"ajax_url":"\/clarivo\/wp-admin\/admin-ajax.php","w
 							<ul class="sub-menu animated menu_fadeInUp" style="">
 								<li id="menu-item-730" class="haru-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-post level-1 "><a href="contract-manufacturer.php">Contract Manufacturer</a></li>
 								<li id="menu-item-730" class="haru-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-post level-1 "><a href="third-party-pharma.php">Third Party Pharma Manufacturer</a></li>
-								<li id="menu-item-730" class="haru-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-post level-1 "><a href="#">Quality Medicine Supplier</a></li>
+								<li id="menu-item-730" class="haru-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-post level-1 "><a href="quality-medicine-supplier.php">Quality Medicine Supplier</a></li>
 								<li id="menu-item-730" class="haru-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-post level-1 "><a href="#">Leading Pharmaceutical Exporter</a></li>
 								<li id="menu-item-730" class="haru-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-post level-1 "><a href="#">Research and Development</a></li>
 							</ul>
@@ -311,7 +311,7 @@ var wc_add_to_cart_params = {"ajax_url":"\/clarivo\/wp-admin\/admin-ajax.php","w
 									<ul class="sub-menu animated menu_fadeInUp" style="">
 										<li id="menu-item-730" class="haru-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-post level-1 "><a href="contract-manufacturer.php">Contract Manufacturer</a></li>
 										<li id="menu-item-730" class="haru-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-post level-1 "><a href="third-party-pharma.php">Third Party Pharma Manufacturer</a></li>
-										<li id="menu-item-730" class="haru-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-post level-1 "><a href="#">Quality Medicine Supplier</a></li>
+										<li id="menu-item-730" class="haru-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-post level-1 "><a href="quality-medicine-supplier.php">Quality Medicine Supplier</a></li>
 										<li id="menu-item-730" class="haru-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-post level-1 "><a href="#">Leading Pharmaceutical Exporter</a></li>
 										<li id="menu-item-730" class="haru-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-post level-1 "><a href="#">Research and Development</a></li>
 									</ul>
