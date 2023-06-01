@@ -440,10 +440,10 @@ Use it to make something cool, have fun, and share what you've learned with othe
   }
   40% {
     opacity: 0.5;
-    box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.1), 0 0 10px 10px #336504, 0 0 0 10px rgba(255, 255, 255, 0.5);
+    box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.1), 0 0 10px 10px #148594, 0 0 0 10px rgba(255, 255, 255, 0.5);
   }
   100% {
-    box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.1), 0 0 10px 10px #336504, 0 0 0 10px rgba(255, 255, 255, 0.5);
+    box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.1), 0 0 10px 10px #148594, 0 0 0 10px rgba(255, 255, 255, 0.5);
     -webkit-transform: scale(1.5);
     opacity: 0;
   }
@@ -455,10 +455,10 @@ Use it to make something cool, have fun, and share what you've learned with othe
   }
   40% {
     opacity: 0.5;
-    box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.1), 0 0 10px 10px #336504, 0 0 0 10px rgba(255, 255, 255, 0.5);
+    box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.1), 0 0 10px 10px #148594 , 0 0 0 10px rgba(255, 255, 255, 0.5);
   }
   100% {
-    box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.1), 0 0 10px 10px #336504, 0 0 0 10px rgba(255, 255, 255, 0.5);
+    box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.1), 0 0 10px 10px #148594 , 0 0 0 10px rgba(255, 255, 255, 0.5);
     -moz-transform: scale(1.5);
     opacity: 0;
   }
@@ -470,10 +470,10 @@ Use it to make something cool, have fun, and share what you've learned with othe
   }
   40% {
     opacity: 0.5;
-    box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.1), 0 0 10px 10px #336504, 0 0 0 10px rgba(255, 255, 255, 0.5);
+    box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.1), 0 0 10px 10px #148594 , 0 0 0 10px rgba(255, 255, 255, 0.5);
   }
   100% {
-    box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.1), 0 0 10px 10px #336504, 0 0 0 10px rgba(255, 255, 255, 0.5);
+    box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.1), 0 0 10px 10px #148594 , 0 0 0 10px rgba(255, 255, 255, 0.5);
     transform: scale(1.5);
     opacity: 0;
   }
@@ -3620,7 +3620,7 @@ a img.aligncenter {
   border-top-right-radius: 5px;
   border-bottom-right-radius: 5px;
   color: #fff;
-  background: #336504;
+  background: #148594;
 }
 
 #haru-popup .subscribe-default .subscribe-submit input[type="submit"]:hover {
@@ -4074,7 +4074,7 @@ a img.aligncenter {
 }
 
 .widget-clarivo-book-appointment .appointment-widget.style_1 .appointment-register .appointment-register-submit button:hover {
-  background-color: #336504;
+  background-color: #148594;
   color: #fff;
   -webkit-transition: all 0.3s;
   -o-transition: all 0.3s;
@@ -9295,7 +9295,7 @@ header.haru-main-header .haru-header-nav-wrap.nav-sticky .menu-wrap .haru-main-m
   height: 0;
   border-style: solid;
   border-width: 10px 10px 0 0;
-  border-color: #336504 transparent transparent transparent;
+  border-color: #148594 transparent transparent transparent;
 }
 
 .haru-archive-blog .archive-content .archive-content-layout article .post-wrapper .post-content-wrapper .post-detail .post-meta-info .post-meta-author {
@@ -9350,7 +9350,7 @@ header.haru-main-header .haru-header-nav-wrap.nav-sticky .menu-wrap .haru-main-m
 }
 
 .haru-archive-blog .archive-content .archive-content-layout article .post-wrapper .post-content-wrapper .post-detail .post-read-more .read-more:hover {
-  background-color: #336504;
+  background-color: #148594;
   color: #fff;
   -webkit-transition: all 0.3s;
   -o-transition: all 0.3s;
@@ -9575,7 +9575,7 @@ header.haru-main-header .haru-header-nav-wrap.nav-sticky .menu-wrap .haru-main-m
 }
 
 .haru-archive-blog .archive-paging.load-more button:hover {
-  background-color: #336504;
+  background-color: #148594;
   color: #fff;
   -webkit-transition: all 0.3s;
   -o-transition: all 0.3s;
@@ -9631,7 +9631,7 @@ header.haru-main-header .haru-header-nav-wrap.nav-sticky .menu-wrap .haru-main-m
   height: 0;
   border-style: solid;
   border-width: 10px 10px 0 0;
-  border-color: #336504 transparent transparent transparent;
+  border-color: #148594 transparent transparent transparent;
 }
 
 .single-content .single-wrapper article .post-meta-wrapper .post-meta-info .post-info .post-meta-author {
@@ -9761,11 +9761,11 @@ header.haru-main-header .haru-header-nav-wrap.nav-sticky .menu-wrap .haru-main-m
 }
 
 .single-content .single-wrapper article .post-thumbnail-wrapper .jp-audio .jp-type-playlist .jp-interface .jp-progress .jp-play-bar {
-  background: #336504;
+  background: #148594;
 }
 
 .single-content .single-wrapper article .post-thumbnail-wrapper .jp-audio .jp-type-playlist .jp-interface .jp-volume .jp-volume-bar-value {
-  background: #336504;
+  background: #148594;
 }
 
 .single-content .single-wrapper article .post-thumbnail-wrapper .owl-nav {
@@ -10439,7 +10439,7 @@ header.haru-main-header .haru-header-nav-wrap.nav-sticky .menu-wrap .haru-main-m
 }
 
 #comments #respond-wrapper .comment-form .submit:hover, #comments .comment-respond .comment-form .submit:hover {
-  background: #336504;
+  background: #148594;
   -webkit-transition: all 0.3s;
   -o-transition: all 0.3s;
   transition: all 0.3s;
@@ -11269,7 +11269,7 @@ li.product .product-actions .yith-wcwl-add-to-wishlist .yith-wcwl-wishlistaddedb
 }
 
 li.product .product-actions .yith-wcwl-add-to-wishlist .yith-wcwl-wishlistaddedbrowse a, li.product .product-actions .yith-wcwl-add-to-wishlist .yith-wcwl-wishlistexistsbrowse a, li.type-product .product-actions .yith-wcwl-add-to-wishlist .yith-wcwl-wishlistaddedbrowse a, li.type-product .product-actions .yith-wcwl-add-to-wishlist .yith-wcwl-wishlistexistsbrowse a {
-  color: #336504;
+  color: #148594;
 }
 
 li.product .product-actions .add_to_compare, li.type-product .product-actions .add_to_compare {
@@ -11291,7 +11291,7 @@ li.product .product-actions .add_to_compare a, li.type-product .product-actions 
 }
 
 li.product .product-actions .add_to_compare a.added, li.type-product .product-actions .add_to_compare a.added {
-  color: #336504;
+  color: #148594;
 }
 
 li.product .product-actions .add-to-cart-wrapper, li.type-product .product-actions .add-to-cart-wrapper {
@@ -11359,7 +11359,7 @@ li.product .product-actions .add-to-cart-wrapper .added_to_cart, li.type-product
 }
 
 li.product .product-actions .add-to-cart-wrapper .added_to_cart i, li.type-product .product-actions .add-to-cart-wrapper .added_to_cart i {
-  color: #336504;
+  color: #148594;
   font-size: 14px;
   line-height: 35px;
 }
@@ -12272,7 +12272,7 @@ li.product .product-actions .quickview a, li.type-product .product-actions .quic
 }
 
 .haru-loadmore-wrapper .haru-loadmore-controls .haru-loadmore-btn:hover {
-  background: #336504;
+  background: #148594;
   -webkit-transition: all 0.3s;
   -o-transition: all 0.3s;
   transition: all 0.3s;
@@ -13219,7 +13219,7 @@ li.product .product-actions .quickview a, li.type-product .product-actions .quic
 }
 
 .single-product-top .entry-summary form.cart .single_add_to_cart_button:hover {
-  background: #336504;
+  background: #148594;
   -webkit-transition: all 0.3s;
   -o-transition: all 0.3s;
   transition: all 0.3s;
@@ -13230,7 +13230,7 @@ li.product .product-actions .quickview a, li.type-product .product-actions .quic
 }
 
 .single-product-top .entry-summary form.cart .woocommerce-variation-price span.price {
-  color: #336504;
+  color:#148594;
 }
 
 .single-product-top .entry-summary form.cart .woocommerce-variation-price span.price del {
@@ -13266,7 +13266,7 @@ li.product .product-actions .quickview a, li.type-product .product-actions .quic
 }
 
 .single-product-top .entry-summary .yith-wcwl-add-to-wishlist a:hover {
-  background: #336504;
+  background: #148594;
   -webkit-transition: all 0.3s;
   -o-transition: all 0.3s;
   transition: all 0.3s;
@@ -13317,7 +13317,7 @@ li.product .product-actions .quickview a, li.type-product .product-actions .quic
 }
 
 .single-product-top .entry-summary a.compare:hover {
-  background-color: #336504;
+  background-color: #148594;
   -webkit-transition: all 0.3s;
   -o-transition: all 0.3s;
   transition: all 0.3s;
@@ -13413,7 +13413,7 @@ li.product .product-actions .quickview a, li.type-product .product-actions .quic
 }
 
 .single-product-content .woocommerce-tabs ul.tabs li.active {
-  border-bottom: 1px solid #336504 !important;
+  border-bottom: 1px solid #148594 !important;
 }
 
 .single-product-content .woocommerce-tabs ul.tabs li.active a {
@@ -13469,11 +13469,11 @@ li.product .product-actions .quickview a, li.type-product .product-actions .quic
 }
 
 .single-product-content .woocommerce-tabs .woocommerce-Tabs-panel .woocommerce-Reviews #comments .commentlist li .comment_container .comment-text .star-rating {
-  color: #336504;
+  color: #148594;
 }
 
 .single-product-content .woocommerce-tabs .woocommerce-Tabs-panel .woocommerce-Reviews #comments .commentlist li .comment_container .comment-text .star-rating:before {
-  color: #336504;
+  color: #148594;
 }
 
 .single-product-content .woocommerce-tabs .woocommerce-Tabs-panel .woocommerce-Reviews #comments .commentlist li .comment_container .comment-text .meta {
@@ -13557,7 +13557,7 @@ li.product .product-actions .quickview a, li.type-product .product-actions .quic
 }
 
 .single-product-content .woocommerce-tabs .woocommerce-Tabs-panel .woocommerce-Reviews #review_form_wrapper .comment-form .form-submit .submit:hover {
-  background-color: #336504 !important;
+  background-color: #148594 !important;
 }
 
 /*-----------------------------------
@@ -13813,7 +13813,7 @@ li.product .product-actions .quickview a, li.type-product .product-actions .quic
 
 .page-sidebar .widget_shopping_cart .widget_shopping_cart_content .cart_list_wrap .cart-total .buttons .button:hover,
 .woocommerce-sidebar .widget_shopping_cart .widget_shopping_cart_content .cart_list_wrap .cart-total .buttons .button:hover {
-  background: #336504;
+  background: #148594;
   -webkit-transition: all 0.3s;
   -o-transition: all 0.3s;
   transition: all 0.3s;
@@ -13880,7 +13880,7 @@ li.product .product-actions .quickview a, li.type-product .product-actions .quic
 
 .page-sidebar .yith-woocompare-widget .compare:hover,
 .woocommerce-sidebar .yith-woocompare-widget .compare:hover {
-  background-color: #336504;
+  background-color: #148594;
   color: #fff;
   -webkit-transition: all 0.3s;
   -o-transition: all 0.3s;
@@ -14049,7 +14049,7 @@ li.product .product-actions .quickview a, li.type-product .product-actions .quic
 
 .page-sidebar .widget_product_search .woocommerce-product-search button[type="submit"]:hover,
 .woocommerce-sidebar .widget_product_search .woocommerce-product-search button[type="submit"]:hover {
-  background: #336504;
+  background: #148594;
   cursor: pointer;
 }
 
@@ -14108,7 +14108,7 @@ li.product .product-actions .quickview a, li.type-product .product-actions .quic
 }
 
 .woocommerce-cart .woocommerce .button:hover {
-  background: #336504;
+  background: #148594;
   -webkit-transition: all 0.3s;
   -o-transition: all 0.3s;
   transition: all 0.3s;
@@ -14190,7 +14190,7 @@ li.product .product-actions .quickview a, li.type-product .product-actions .quic
 }
 
 .woocommerce-cart .woocommerce table.shop_table_responsive tbody tr td.actions .coupon input[name='apply_coupon']:hover {
-  background: #336504;
+  background: #148594;
 }
 
 .woocommerce-cart .woocommerce table.shop_table_responsive tbody tr td.actions .coupon input[type="submit"] {
@@ -14240,7 +14240,7 @@ li.product .product-actions .quickview a, li.type-product .product-actions .quic
 }
 
 .woocommerce-cart .woocommerce .cart-collaterals .cart_totals .wc-proceed-to-checkout a:hover {
-  background: #336504;
+  background: #148594;
 }
 
 /*-----------------------------------
@@ -14321,7 +14321,7 @@ li.product .product-actions .quickview a, li.type-product .product-actions .quic
 }
 
 .woocommerce-account .woocommerce .woocommerce-MyAccount-content p input[type=submit]:hover {
-  background: #336504;
+  background: #148594;
   -webkit-transition: all 0.3s;
   -o-transition: all 0.3s;
   transition: all 0.3s;
@@ -14369,7 +14369,7 @@ li.product .product-actions .quickview a, li.type-product .product-actions .quic
 }
 
 .woocommerce-account .woocommerce .woocommerce-MyAccount-content .button:hover {
-  background: #336504;
+  background: #148594;
 }
 
 .woocommerce-account .woocommerce .customer_login_form_wrap h2 {
@@ -14403,7 +14403,7 @@ li.product .product-actions .quickview a, li.type-product .product-actions .quic
 }
 
 .woocommerce-account .woocommerce .customer_login_form_wrap form .button:hover {
-  background: #336504;
+  background: #148594;
 }
 
 .woocommerce-account .woocommerce .customer_login_form_wrap form .button:focus {
@@ -14493,7 +14493,7 @@ li.product .product-actions .quickview a, li.type-product .product-actions .quic
 }
 
 .woocommerce-wishlist .woocommerce .wishlist_table tbody .add-to-cart-wrapper a:hover {
-  background: #336504;
+  background: #148594;
   -webkit-transition: all 0.3s;
   -o-transition: all 0.3s;
   transition: all 0.3s;
@@ -14570,7 +14570,7 @@ li.product .product-actions .quickview a, li.type-product .product-actions .quic
 }
 
 .woocommerce-wishlist .woocommerce .wishlist_table.mobile li .product-add-to-cart a.button:hover {
-  background: #336504;
+  background: #148594;
   -webkit-transition: all 0.3s;
   -o-transition: all 0.3s;
   transition: all 0.3s;
@@ -14657,7 +14657,7 @@ li.product .product-actions .quickview a, li.type-product .product-actions .quic
 }
 
 .woocommerce-checkout .woocommerce .woocommerce-checkout-review-order #place_order:hover {
-  background: #336504;
+  background: #148594;
 }
 
 .woocommerce-checkout .woocommerce form.checkout_coupon {
@@ -15586,7 +15586,7 @@ body .pp_woocommerce .pp_content_container .pp_close:after {
 }
 
 .popup-product-quick-view-wrapper .woocomerce-quickview-info .entry-summary form.cart .single_add_to_cart_button:hover {
-  background: #336504;
+  background: #148594;
   -webkit-transition: all 0.3s;
   -o-transition: all 0.3s;
   transition: all 0.3s;
@@ -15597,7 +15597,7 @@ body .pp_woocommerce .pp_content_container .pp_close:after {
 }
 
 .popup-product-quick-view-wrapper .woocomerce-quickview-info .entry-summary form.cart .woocommerce-variation-price span.price {
-  color: #336504;
+  color: #148594;
 }
 
 .popup-product-quick-view-wrapper .woocomerce-quickview-info .entry-summary form.cart .woocommerce-variation-price span.price del {
@@ -15633,7 +15633,7 @@ body .pp_woocommerce .pp_content_container .pp_close:after {
 }
 
 .popup-product-quick-view-wrapper .woocomerce-quickview-info .entry-summary .yith-wcwl-add-to-wishlist a:hover {
-  background: #336504;
+  background: #148594;
   -webkit-transition: all 0.3s;
   -o-transition: all 0.3s;
   transition: all 0.3s;
@@ -15684,7 +15684,7 @@ body .pp_woocommerce .pp_content_container .pp_close:after {
 }
 
 .popup-product-quick-view-wrapper .woocomerce-quickview-info .entry-summary a.compare:hover {
-  background-color: #336504;
+  background-color: #148594;
   -webkit-transition: all 0.3s;
   -o-transition: all 0.3s;
   transition: all 0.3s;
@@ -15812,7 +15812,7 @@ body .pp_woocommerce .pp_content_container .pp_close:after {
 
 .woocommerce a.button,
 .woocommerce input.button {
-  background: #336504;
+  background: #148594;
   color: #fff;
   font-weight: normal;
   text-transform: uppercase;
@@ -16805,7 +16805,7 @@ body .pp_woocommerce .pp_content_container .pp_close:after {
   height: 0;
   border-style: solid;
   border-width: 10px 10px 0 0;
-  border-color: #336504 transparent transparent transparent;
+  border-color: #148594 transparent transparent transparent;
 }
 
 .recent-news-shortcode-wrap.carousel .recent-news-container article .post-content .post-meta .post-meta-author {
@@ -17268,7 +17268,7 @@ body .pp_woocommerce .pp_content_container .pp_close:after {
   height: 0;
   border-style: solid;
   border-width: 10px 10px 0 0;
-  border-color: #336504 transparent transparent transparent;
+  border-color: #148594 transparent transparent transparent;
 }
 
 .recent-news-shortcode-wrap.list .recent-news-container .recent-news-item .post-content .post-meta .post-meta-author, .recent-news-shortcode-wrap.grid .recent-news-container .recent-news-item .post-content .post-meta .post-meta-author {
@@ -17483,7 +17483,7 @@ body .pp_woocommerce .pp_content_container .pp_close:after {
 }
 
 .images-gallery-shortcode-wrap.slick .images-groups .gallery-viewmore a:hover {
-  background-color: #336504;
+  background-color: #148594;
   -webkit-transition: all 0.3s;
   -o-transition: all 0.3s;
   transition: all 0.3s;
@@ -21662,7 +21662,7 @@ div.light_square .pp_description a:hover {
 }
 
 .products-shortcode-paging-wrap.paging-load-more button:hover {
-  background-color: #336504;
+  background-color: #148594;
   color: #fff;
   -webkit-transition: all 0.3s;
   -o-transition: all 0.3s;
@@ -23717,7 +23717,7 @@ div.light_square .pp_description a:hover {
 }
 
 .appointment-form-shortcode-wrap.style_1 .appointment-content .appointment-form .appointment-register .appointment-register-submit button:hover {
-  background-color: #336504;
+  background-color: #148594;
   color: #fff;
   -webkit-transition: all 0.3s;
   -o-transition: all 0.3s;
@@ -23999,7 +23999,7 @@ div.light_square .pp_description a:hover {
 }
 
 .appointment-form-shortcode-wrap.style_2 .appointment-register .appointment-register-submit button:hover {
-  background-color: #336504;
+  background-color: #148594;
   color: #fff;
   -webkit-transition: all 0.3s;
   -o-transition: all 0.3s;
@@ -24011,7 +24011,7 @@ div.light_square .pp_description a:hover {
 }
 
 .appointment-form-shortcode-wrap.style_2 .emergency-case {
-  background-color: #336504;
+  background-color: #148594;
   color: #fff;
   overflow: hidden;
   padding: 10px 30px;
@@ -24063,7 +24063,7 @@ div.light_square .pp_description a:hover {
 }
 
 .appointment-tooltip {
-  background: #336504;
+  background: #148594;
   height: auto;
   line-height: 200%;
   max-width: 250px;
@@ -24679,7 +24679,7 @@ div.light_square .pp_description a:hover {
 }
 
 .doctor-shortcode-wrap.grid .doctor-content .doctor-list .doctor-item.style_1 .doctor-content .doctor-appointment a:hover {
-  background-color: #336504;
+  background-color: #148594;
   -webkit-transition: all 0.3s;
   -o-transition: all 0.3s;
   transition: all 0.3s;
@@ -24873,7 +24873,7 @@ div.light_square .pp_description a:hover {
 }
 
 .department-shortcode-wrap.style_1 .department-viewmore:hover {
-  color: #336504;
+  color: #148594;
   -webkit-transition: all 0.3s;
   -o-transition: all 0.3s;
   transition: all 0.3s;
@@ -25062,7 +25062,7 @@ div.light_square .pp_description a:hover {
 }
 
 .haru-department .tab-toggle.active .tab-title {
-  background-color: #336504;
+  background-color: #148594;
   border: none;
   color: #fff;
   padding: 10px 15px;
@@ -25531,7 +25531,7 @@ th, td {
 }
 
 .post-password-form input[type=submit] {
-  background: #336504;
+  background: #148594;
   border: none;
   color: #fff;
   padding: 2px 10px;
