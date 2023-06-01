@@ -247,7 +247,7 @@ var wc_add_to_cart_params = {"ajax_url":"\/clarivo\/wp-admin\/admin-ajax.php","w
 								<li id="menu-item-730" class="haru-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-post level-1 "><a href="third-party-pharma.php">Third Party Pharma Manufacturer</a></li>
 								<li id="menu-item-730" class="haru-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-post level-1 "><a href="quality-medicine-supplier.php">Quality Medicine Supplier</a></li>
 								<li id="menu-item-730" class="haru-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-post level-1 "><a href="leading-pharmaceutical-exporter.php">Leading Pharmaceutical Exporter</a></li>
-								<li id="menu-item-730" class="haru-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-post level-1 "><a href="#">Research and Development</a></li>
+								<li id="menu-item-730" class="haru-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-post level-1 "><a href="research-and-development.php">Research and Development</a></li>
 							</ul>
                         </li>
 						<li id="menu-item-22" class="haru-menu haru_megamenu menu_style_column mega-col-columns-4   menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children level-0 ">
@@ -313,7 +313,7 @@ var wc_add_to_cart_params = {"ajax_url":"\/clarivo\/wp-admin\/admin-ajax.php","w
 										<li id="menu-item-730" class="haru-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-post level-1 "><a href="third-party-pharma.php">Third Party Pharma Manufacturer</a></li>
 										<li id="menu-item-730" class="haru-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-post level-1 "><a href="quality-medicine-supplier.php">Quality Medicine Supplier</a></li>
 										<li id="menu-item-730" class="haru-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-post level-1 "><a href="leading-pharmaceutical-exporter.php">Leading Pharmaceutical Exporter</a></li>
-										<li id="menu-item-730" class="haru-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-post level-1 "><a href="#">Research and Development</a></li>
+										<li id="menu-item-730" class="haru-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-post level-1 "><a href="research-and-development.php">Research and Development</a></li>
 									</ul>
                                 </li>
 								<li id="menu-item-22" class="haru-menu haru_megamenu menu_style_column mega-col-columns-4   menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children level-0 ">

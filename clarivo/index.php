@@ -670,7 +670,7 @@
           <div class="image-column col-lg-6 col-md-12 col-sm-12">
              <div class="inner-column">
                   <figure class="image-1">
-                      <img src="../clarivo/Images/manufacturing.png" alt="pharma manufacturing machine mygenic" class="img-fluid">
+                      <img src="../clarivo/Images/how we do/manufacturing.png" alt="pharma manufacturing machine mygenic" class="img-fluid">
                   </figure>
              </div>
           </div>
