@@ -12424,6 +12424,7 @@ li.product .product-actions .quickview a, li.type-product .product-actions .quic
   z-index: 9;
   width: 100%;
   text-align: right;
+  padding-right: 90px;
 }
 
 .haru-single-product .related .owl-nav .owl-prev, .haru-single-product .related .owl-nav .owl-next {
@@ -12521,7 +12522,7 @@ li.product .product-actions .quickview a, li.type-product .product-actions .quic
 }
 
 .single-product-top .single-product-image-wrap.vertical.thumbnail-left #product-images1 {
-  margin-left: 90px;
+ /*margin-left: 90px;*/
 }
 
 .single-product-top .single-product-image-wrap.vertical.thumbnail-left #product-images1:hover .slick-arrow.slick-prev {
