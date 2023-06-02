@@ -216,7 +216,7 @@
                                                             </div>
                                                         </div>
                                                     </div>
-                                                    <div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1515381225329">
+                                                    <div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1515381225329" style="display: flex;justify-content: center;">
                                                         <div class="wpb_column vc_column_container vc_col-sm-4" style="">
                                                             <div class="vc_column-inner">
                                                                 <div class="wpb_wrapper">
@@ -472,31 +472,29 @@
 
 <!-------------------------Photo Gallery---------------------------------------->
 <section id="about-company" class="section-bg">
-            <div class="container">
-                <div class="section-head">
-                    <h2 style="font-size: 30px;color: #18a0b1;text-align: center text-align: left" class="vc_custom_heading heading_style_1">CERTIFICATES</h2>
-                </div>
-                <div class="slider">
-                    <div class="mask">
-                        <ul>
-                            <li class="anim1">
-                                <img src="../clarivo/Images/certificates/certificate-1.png" alt="" class="img-fluid">
-                            </li>
-                            <li class="anim2">
-                                <img src="../clarivo/Images/certificates/certificate-2.jpg" alt="" class="img-fluid">
-                            </li>
-                            <li class="anim3">
-                                <img src="../clarivo/Images/certificates/certificate-4.png" alt="" class="img-fluid">
-                            </li>
-                            <li class="anim4">
-                                <img src="../clarivo/Images/certificates/certificate-5.png" alt="" class="img-fluid">
-                            </li>
-                        </ul>
-                    </div>
-                </div>
+    <div class="container">
+        <div class="section-head">
+            <h2 style="font-size: 30px;color: #18a0b1;text-align: center text-align: left" class="vc_custom_heading heading_style_1">CERTIFICATES</h2>
+        </div>
+        <div class="slider">
+            <div class="mask">
+                <ul>
+                    <li class="anim1">
+                        <img src="../clarivo/Images/certificates/certificate-1.png" alt="" class="img-fluid">
+                    </li>
+                    <li class="anim2">
+                        <img src="../clarivo/Images/certificates/certificate-2.jpg" alt="" class="img-fluid">
+                    </li>
+                    <li class="anim3">
+                        <img src="../clarivo/Images/certificates/certificate-4.png" alt="" class="img-fluid">
+                    </li>
+                    <li class="anim4">
+                        <img src="../clarivo/Images/certificates/certificate-5.png" alt="" class="img-fluid">
+                    </li>
+                </ul>
             </div>
-        </section>
-
-
+        </div>
+    </div>
+</section>
 
 <?php include("footer.php"); ?>
