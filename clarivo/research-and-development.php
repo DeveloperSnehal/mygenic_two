@@ -45,10 +45,10 @@
                                                         <div class="wpb_column vc_column_container vc_col-sm-6">
                                                             <div class="vc_column-inner">
                                                                 <div class="wpb_wrapper">
-                                                                    <div class="wpb_single_image wpb_content_element vc_align_left">
+                                                                    <div class="wpb_single_image wpb_content_element vc_align_left" style="text-align: center;">
                                                                         <figure class="wpb_wrapper vc_figure">
                                                                             <div class="vc_single_image-wrapper vc_box_border_grey" style="filter: drop-shadow(rgba(0, 0, 0, 1.0) 0px 5px 15px);">
-                                                                                <img width="465" height="524" src="../clarivo/Images/services/r&d 1.jpg" class="vc_single_image-img attachment-full" alt="" loading="lazy" title="about-doctor" srcset="../clarivo/Images/services/r&d 1.jpg 465w, ../clarivo/Images/services/r&d 1.jpg 266w" sizes="(max-width: 465px) 100vw, 465px" />
+                                                                                <img width="50%" height="524" src="../clarivo/Images/services/r&d 1.jpg" class="vc_single_image-img attachment-full" alt="" loading="lazy" title="about-doctor" srcset="../clarivo/Images/services/r&d 1.jpg 465w, ../clarivo/Images/services/r&d 1.jpg 266w" sizes="(max-width: 465px) 100vw, 465px" />
                                                                             </div>
                                                                         </figure>
                                                                     </div>
@@ -112,10 +112,10 @@
                                                         <div class="wpb_column vc_column_container vc_col-sm-6">
                                                             <div class="vc_column-inner">
                                                                 <div class="wpb_wrapper">
-                                                                    <div class="wpb_single_image wpb_content_element vc_align_left">
+                                                                    <div class="wpb_single_image wpb_content_element vc_align_left" style="text-align: center;">
                                                                         <figure class="wpb_wrapper vc_figure">
                                                                             <div class="vc_single_image-wrapper vc_box_border_grey" style="filter: drop-shadow(rgba(0, 0, 0, 1.0) 0px 5px 15px);">
-                                                                                <img width="465" height="524" src="../clarivo/Images/services/r&d 2.jpg" class="vc_single_image-img attachment-full" alt="" loading="lazy" title="about-doctor" srcset="../clarivo/Images/services/r&d 2.jpg 465w, ../clarivo/Images/services/r&d 2.jpg 266w" sizes="(max-width: 465px) 100vw, 465px" />
+                                                                                <img width="90%" height="524" src="../clarivo/Images/services/r&d 2.jpg" class="vc_single_image-img attachment-full" alt="" loading="lazy" title="about-doctor" srcset="../clarivo/Images/services/r&d 2.jpg 465w, ../clarivo/Images/services/r&d 2.jpg 266w" sizes="(max-width: 465px) 100vw, 465px" />
                                                                             </div>
                                                                         </figure>
                                                                     </div>
@@ -134,7 +134,7 @@
                 </div>
             </div>
         </div>
-    </main>    
+    </main>
 
     <main class="haru-page">
         <div class="container clearfix">
@@ -152,10 +152,10 @@
                                                       <div class="wpb_column vc_column_container vc_col-sm-6">
                                                             <div class="vc_column-inner">
                                                                 <div class="wpb_wrapper">
-                                                                    <div class="wpb_single_image wpb_content_element vc_align_left">
+                                                                    <div class="wpb_single_image wpb_content_element vc_align_left" style="text-align: center;">
                                                                         <figure class="wpb_wrapper vc_figure">
                                                                             <div class="vc_single_image-wrapper vc_box_border_grey" style="filter: drop-shadow(rgba(0, 0, 0, 1.0) 0px 5px 15px);">
-                                                                                <img width="465" height="524" src="../clarivo/Images/services/r&d 3.jpg" class="vc_single_image-img attachment-full" alt="" loading="lazy" title="about-doctor" srcset="../clarivo/Images/services/r&d 3.jpg 465w, ../clarivo/Images/services/r&d 3.jpg 266w" sizes="(max-width: 465px) 100vw, 465px" />
+                                                                                <img width="60%" height="524" src="../clarivo/Images/services/r&d 3.jpg" class="vc_single_image-img attachment-full" alt="" loading="lazy" title="about-doctor" srcset="../clarivo/Images/services/r&d 3.jpg 465w, ../clarivo/Images/services/r&d 3.jpg 266w" sizes="(max-width: 465px) 100vw, 465px" />
                                                                             </div>
                                                                         </figure>
                                                                     </div>
@@ -186,9 +186,9 @@
                 </div>
             </div>
         </div>
-    </main>    
+    </main>
 </div>
 
 <!-- Close HARU Content Main -->
 
-    <?php include("footer.php"); ?>    
+    <?php include("footer.php"); ?>

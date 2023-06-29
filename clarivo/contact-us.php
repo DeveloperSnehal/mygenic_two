@@ -5,8 +5,8 @@
 <!-------------------------------Map------------------------------------------>
 <section>
     <div class="contact-map mt-5">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3770.0934043340653!2d72.89505411382925!3d19.10355788707209!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c8760d6311c9%3A0x8bb9589f83ffcc35!2sKothari%20Compound%2C%20Jangaleshwar%20Mahadev%20Mandir%20Rd%2C%20Subhash%20Nagar%2C%20Mohili%2C%20Asalpha%2C%20Mumbai%2C%20Maharashtra%20400072!5e0!3m2!1sen!2sin!4v1678098653196!5m2!1sen!2sin" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-    </div>
+     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3771.929076706968!2d73.0852998239682!3d19.02284665364151!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7e9e98b244589%3A0x45d816890bc90b8f!2sMygenic%20Healthcare%20Pvt.%20Ltd.!5e0!3m2!1snl!2snl!4v1687871618750!5m2!1snl!2snl" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+   </div>
 </section>
 
 <div class="vc_row-full-width vc_clearfix"></div>

@@ -45,10 +45,10 @@
                                                         <div class="wpb_column vc_column_container vc_col-sm-6">
                                                             <div class="vc_column-inner">
                                                                 <div class="wpb_wrapper">
-                                                                    <div class="wpb_single_image wpb_content_element vc_align_left">
+                                                                    <div class="wpb_single_image wpb_content_element vc_align_left" style="text-align: center;">
                                                                         <figure class="wpb_wrapper vc_figure">
                                                                             <div class="vc_single_image-wrapper vc_box_border_grey" style="filter: drop-shadow(rgba(0, 0, 0, 1.0) 0px 5px 15px);">
-                                                                                <img width="465" height="524" src="../clarivo/Images/services/service5.png" class="vc_single_image-img attachment-full" alt="" loading="lazy" title="about-doctor" srcset="../clarivo/Images/services/service5.png 465w, ../clarivo/Images/services/service5.png 266w" sizes="(max-width: 465px) 100vw, 465px" style=" border-radius: 50%;" />
+                                                                                <img width="75%" height="524" src="../Images/services/service7.png" class="vc_single_image-img attachment-full" alt="" loading="lazy" title="about-doctor" srcset="Images/services/service7.png 465w, ../clarivo/Images/services/service7.png 266w" sizes="(max-width: 465px) 100vw, 465px"/>
                                                                             </div>
                                                                         </figure>
                                                                     </div>
@@ -117,10 +117,10 @@
                                                         <div class="wpb_column vc_column_container vc_col-sm-6">
                                                             <div class="vc_column-inner">
                                                                 <div class="wpb_wrapper">
-                                                                    <div class="wpb_single_image wpb_content_element vc_align_left">
+                                                                    <div class="wpb_single_image wpb_content_element vc_align_left" style="text-align: center;">
                                                                         <figure class="wpb_wrapper vc_figure">
                                                                             <div class="vc_single_image-wrapper vc_box_border_grey" style="filter: drop-shadow(rgba(0, 0, 0, 1.0) 0px 5px 15px);">
-                                                                                <img width="465" height="524" src="../clarivo/Images/services/services4.png" class="vc_single_image-img attachment-full" alt="" loading="lazy" title="about-doctor" srcset="../clarivo/Images/services/services4.png 465w, ../clarivo/Images/services/services4.png 266w" sizes="(max-width: 465px) 100vw, 465px" />
+                                                                                <img width="55%" height="524" src="../Images/services/service8.png" class="vc_single_image-img attachment-full" alt="" loading="lazy" title="about-doctor" srcset="Images/services/service8.png 465w, ../clarivo/Images/services/services8.png 266w" sizes="(max-width: 465px) 100vw, 465px" />
                                                                             </div>
                                                                         </figure>
                                                                     </div>
@@ -139,7 +139,7 @@
                 </div>
             </div>
         </div>
-    </main>    
+    </main>
 
     <main class="haru-page">
         <div class="container clearfix">
@@ -154,6 +154,19 @@
                                             <div class="vc_column-inner">
                                                 <div class="wpb_wrapper">
                                                     <div class="vc_row wpb_row vc_inner vc_row-fluid">
+                                                       <div class="wpb_column vc_column_container vc_col-sm-6">
+                                                            <div class="vc_column-inner">
+                                                                <div class="wpb_wrapper">
+                                                                    <div class="wpb_single_image wpb_content_element vc_align_left" style="text-align: center;">
+                                                                        <figure class="wpb_wrapper vc_figure">
+                                                                            <div class="vc_single_image-wrapper vc_box_border_grey" style="filter: drop-shadow(rgba(0, 0, 0, 1.0) 0px 5px 15px);">
+                                                                                <img width="70%" height="524" src="../Images/services/service9.png" class="vc_single_image-img attachment-full" alt="" loading="lazy" title="about-doctor" srcset="Images/services/service9.png 465w, ../clarivo/Images/services/service9.png 266w" sizes="(max-width: 465px) 100vw, 465px" />
+                                                                            </div>
+                                                                        </figure>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
                                                         <div class="wpb_column vc_column_container vc_col-sm-6">
                                                             <div class="vc_column-inner">
                                                                 <div class="wpb_wrapper">
@@ -172,19 +185,6 @@
                                                                 </div>
                                                             </div>
                                                         </div>
-                                                        <div class="wpb_column vc_column_container vc_col-sm-6">
-                                                            <div class="vc_column-inner">
-                                                                <div class="wpb_wrapper">
-                                                                    <div class="wpb_single_image wpb_content_element vc_align_left">
-                                                                        <figure class="wpb_wrapper vc_figure">
-                                                                            <div class="vc_single_image-wrapper vc_box_border_grey" style="filter: drop-shadow(rgba(0, 0, 0, 1.0) 0px 5px 15px);">
-                                                                                <img width="465" height="524" src="../clarivo/Images/services/service6.png" class="vc_single_image-img attachment-full" alt="" loading="lazy" title="about-doctor" srcset="../clarivo/Images/services/service6.png 465w, ../clarivo/Images/services/service6.png 266w" sizes="(max-width: 465px) 100vw, 465px" />
-                                                                            </div>
-                                                                        </figure>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
                                                     </div>
                                                 </div>
                                             </div>
@@ -197,9 +197,9 @@
                 </div>
             </div>
         </div>
-    </main>    
+    </main>
 </div>
 
 <!-- Close HARU Content Main -->
 
-    <?php include("footer.php"); ?>    
+    <?php include("footer.php"); ?>

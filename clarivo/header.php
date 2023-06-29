@@ -2,14 +2,14 @@
 <!-- Open HTML -->
 <html lang="en-US">
     <!-- Open Head -->
-    
+
 <!-- Mirrored from demo.harutheme.com/clarivo/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 16 May 2023 11:47:59 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="profile" href="http://gmpg.org/xfn/11">
-                                            <link rel="shortcut icon" href="wp-content/themes/clarivo/framework/admin-assets/images/theme-options/favicon.ico" />
+                                            <link rel="shortcut icon" href="Images/mygenic_favicon.png" />
                             				<script>document.documentElement.className = document.documentElement.className + ' yes-js js_active js'</script>
 				<title>Clarivo &#8211; Multipurpose Medical and Pharmacy WordPress theme &#8211; The best pharmacy WordPress theme</title>
 <meta name='robots' content='max-image-preview:large' />
@@ -17,7 +17,7 @@
 <link rel='dns-prefetch' href='http://s.w.org/' />
 <link rel='preconnect' href='https://fonts.gstatic.com/' crossorigin />
 <link rel="alternate" type="application/rss+xml" title="Clarivo - Multipurpose Medical and Pharmacy WordPress theme &raquo; Feed" href="feed/index.html" />
-<link rel="alternate" type="application/rss+xml" title="Clarivo - Multipurpose Medical and Pharmacy WordPress theme &raquo; Comments Feed" href="comments/feed/index.html" />
+<link rel="alternate" type="application/rss+xml" title="Clarivo - Multipurpose Medical and Pharmacy WordPress theme &raquo; Comments Feed" href="comments/feed/index.php" />
 <script type="text/javascript">
 window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/demo.harutheme.com\/clarivo\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.9.5"}};
 /*! This file is auto-generated */
@@ -121,7 +121,7 @@ var wc_add_to_cart_params = {"ajax_url":"\/clarivo\/wp-admin\/admin-ajax.php","w
 <script type='text/javascript' src='wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.minaec2.js?ver=6.4.1' id='wc-add-to-cart-js'></script>
 <script type='text/javascript' src='wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-carte1b2.js?ver=6.9.0' id='vc_woocommerce-add-to-cart-js-js'></script>
 <link rel="https://api.w.org/" href="wp-json/index.html" /><link rel="alternate" type="application/json" href="wp-json/wp/v2/pages/882.json" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc0db0.php?rsd" />
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" /> 
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" />
 <meta name="generator" content="WordPress 5.9.5" />
 <meta name="generator" content="WooCommerce 6.4.1" />
 <link rel="canonical" href="index.html" />
@@ -154,7 +154,7 @@ var wc_add_to_cart_params = {"ajax_url":"\/clarivo\/wp-admin\/admin-ajax.php","w
 						e.gh = e.el===undefined || e.el==="" || (Array.isArray(e.el) && e.el.length==0)? e.gh : e.el;
 						e.gh = Array.isArray(e.gh) ? e.gh : [e.gh];
 						for (var i in e.rl) if (e.gh[i]===undefined || e.gh[i]===0) e.gh[i] = e.gh[i-1];
-											
+
 						var nl = new Array(e.rl.length),
 							ix = 0,
 							sl;
@@ -180,7 +180,7 @@ var wc_add_to_cart_params = {"ajax_url":"\/clarivo\/wp-admin\/admin-ajax.php","w
 				}
 			//});
 		  };</script>
-<style id="haru_clarivo_options-dynamic-css" title="dynamic-css" class="redux-options-output">body{background-repeat:no-repeat;background-attachment:fixed;background-position:center center;background-size:cover;}body{font-family:Lato;font-weight:400;font-style:normal;font-size:14px;font-display:swap;}h1{font-family:Lato;font-weight:700;font-style:normal;font-size:36px;font-display:swap;}h2{font-family:Lato;font-weight:700;font-style:normal;font-size:28px;font-display:swap;}h3{font-family:Lato;font-weight:700;font-style:normal;font-size:24px;font-display:swap;}h4{font-family:Lato;font-weight:400;font-style:normal;font-size:21px;font-display:swap;}h5{font-family:Lato;font-weight:400;font-style:normal;font-size:18px;font-display:swap;}h6{font-family:Lato;font-weight:400;font-style:normal;font-size:14px;font-display:swap;}.navbar .navbar-nav a{font-family:Lato;font-weight:400;font-size:14px;font-display:swap;}.page-title-inner h1{font-family:Lato;font-weight:700;font-style:normal;font-size:36px;font-display:swap;}.page-title-inner .page-sub-title{font-family:"Nunito Sans";font-weight:400;font-style:italic;font-size:14px;font-display:swap;}</style><style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1521552568795{margin-bottom: 5% !important;}.vc_custom_1521552776280{margin-right: 0px !important;margin-bottom: 5% !important;margin-left: 0px !important;border-top-width: 2px !important;border-right-width: 1px !important;border-bottom-width: 2px !important;border-left-width: 2px !important;border-left-color: #e1e1e1 !important;border-left-style: solid !important;border-right-color: #e1e1e1 !important;border-right-style: solid !important;border-top-color: #e1e1e1 !important;border-top-style: solid !important;border-bottom-color: #e1e1e1 !important;border-bottom-style: solid !important;}.vc_custom_1521562668981{margin-top: 7% !important;margin-bottom: 7% !important;}.vc_custom_1521562564049{margin-top: 2% !important;margin-bottom: 7% !important;}.vc_custom_1521969270464{padding-top: 7% !important;padding-bottom: 7% !important;background-color: #f7f7f7 !important;}.vc_custom_1521340868449{padding-top: 0px !important;}.vc_custom_1521340250483{padding-right: 0px !important;padding-left: 0px !important;}.vc_custom_1521340279949{padding-right: 0px !important;padding-left: 0px !important;}.vc_custom_1521340328485{padding-right: 0px !important;padding-left: 0px !important;}.vc_custom_1521340354718{padding-right: 0px !important;padding-left: 0px !important;}.vc_custom_1521554910882{padding-top: 0px !important;}.vc_custom_1521559128513{margin-bottom: 3% !important;}.vc_custom_1521969258577{padding-top: 0px !important;}.vc_custom_1521971190559{margin-top: 0px !important;margin-bottom: 0px !important;}.vc_custom_1522320288417{margin-top: 15px !important;margin-bottom: 30px !important;  } </style><noscript><style> .wpb_animate_when_almost_visible { opacity: 1; } </style> 
+<style id="haru_clarivo_options-dynamic-css" title="dynamic-css" class="redux-options-output">body{background-repeat:no-repeat;background-attachment:fixed;background-position:center center;background-size:cover;}body{font-family:Lato;font-weight:400;font-style:normal;font-size:14px;font-display:swap;}h1{font-family:Lato;font-weight:700;font-style:normal;font-size:36px;font-display:swap;}h2{font-family:Lato;font-weight:700;font-style:normal;font-size:28px;font-display:swap;}h3{font-family:Lato;font-weight:700;font-style:normal;font-size:24px;font-display:swap;}h4{font-family:Lato;font-weight:400;font-style:normal;font-size:21px;font-display:swap;}h5{font-family:Lato;font-weight:400;font-style:normal;font-size:18px;font-display:swap;}h6{font-family:Lato;font-weight:400;font-style:normal;font-size:14px;font-display:swap;}.navbar .navbar-nav a{font-family:Lato;font-weight:400;font-size:14px;font-display:swap;}.page-title-inner h1{font-family:Lato;font-weight:700;font-style:normal;font-size:36px;font-display:swap;}.page-title-inner .page-sub-title{font-family:"Nunito Sans";font-weight:400;font-style:italic;font-size:14px;font-display:swap;}</style><style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1521552568795{margin-bottom: 5% !important;}.vc_custom_1521552776280{margin-right: 0px !important;margin-bottom: 5% !important;margin-left: 0px !important;border-top-width: 2px !important;border-right-width: 1px !important;border-bottom-width: 2px !important;border-left-width: 2px !important;border-left-color: #e1e1e1 !important;border-left-style: solid !important;border-right-color: #e1e1e1 !important;border-right-style: solid !important;border-top-color: #e1e1e1 !important;border-top-style: solid !important;border-bottom-color: #e1e1e1 !important;border-bottom-style: solid !important;}.vc_custom_1521562668981{margin-bottom: 7% !important;}.vc_custom_1521562564049{margin-top: 2% !important;margin-bottom: 7% !important;}.vc_custom_1521969270464{padding-top: 7% !important;padding-bottom: 7% !important;background-color: #f7f7f7 !important;}.vc_custom_1521340868449{padding-top: 0px !important;}.vc_custom_1521340250483{padding-right: 0px !important;padding-left: 0px !important;}.vc_custom_1521340279949{padding-right: 0px !important;padding-left: 0px !important;}.vc_custom_1521340328485{padding-right: 0px !important;padding-left: 0px !important;}.vc_custom_1521340354718{padding-right: 0px !important;padding-left: 0px !important;}.vc_custom_1521554910882{padding-top: 0px !important;}.vc_custom_1521559128513{margin-bottom: 3% !important;}.vc_custom_1521969258577{padding-top: 0px !important;}.vc_custom_1521971190559{margin-top: 0px !important;margin-bottom: 0px !important;}.vc_custom_1522320288417{margin-top: 15px !important;margin-bottom: 30px !important;  } </style><noscript><style> .wpb_animate_when_almost_visible { opacity: 1; } </style>
 </noscript>    </head>
     <!-- Close Head -->
     <body class="home page-template-default page page-id-882 theme-clarivo woocommerce-no-js layout-wide top-header wpb-js-composer js-comp-ver-6.9.0 vc_responsive">
@@ -191,28 +191,28 @@ var wc_add_to_cart_params = {"ajax_url":"\/clarivo\/wp-admin\/admin-ajax.php","w
     <div class="container">
         <div class="row">
             <div class="top-sidebar top-header-left col-md-6 col-sm-12 col-xs-12">
-                <aside id="text-5" class="widget widget_text">			
+                <aside id="text-5" class="widget widget_text">
 					<div class="textwidget">
 						<ul class="topheader-info-left">
 		                   <li><i class="icofont icofont-ui-call"></i><span class="info-label">Call us:</span>+91 9867592446</li>
 		                   <li><i class="icofont icofont-envelope"></i><span class="info-label">Email:</span>info@mygenichealthcare.com</li>
 		               </ul>
 	             	</div>
-	        	</aside>               
+	        	</aside>
 		    </div>
             <div class="top-sidebar top-header-right col-md-6 col-sm-12 col-xs-12">
-                <aside id="text-6" class="widget widget_text">			
+                <aside id="text-6" class="widget widget_text">
 					<div class="textwidget">
 						<ul class="topheader-info-right">
                           <li><i class="icofont icofont-location-pin"></i><span class="info-label">Address:</span> Sector 35 Dolphin Platinum Kamothe, Navi Mumbai</li>
                           <li class="book-appointment"><a href="#"><i class="icofont icofont-medical-sign"></i>Enquiry Here</a></li>
                         </ul>
                    </div>
-		        </aside>                
+		        </aside>
 			</div>
          </div>
     </div>
-</div>   
+</div>
  <header id="haru-mobile-header" class="haru-mobile-header header-mobile-3 header-mobile-sticky">
      <div class="haru-mobile-header-wrap menu-mobile-fly">
         <div class="container haru-mobile-header-container">
@@ -256,12 +256,12 @@ var wc_add_to_cart_params = {"ajax_url":"\/clarivo\/wp-admin\/admin-ajax.php","w
 						<li id="menu-item-557" class="haru-menu menu_style_dropdown   menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children level-0 ">
 							<a href="contact-us.php">Contact Us</a><b class="menu-caret"></b>
 						</li>
-                   </ul>   
+                   </ul>
 		      </div>
                 <div class="haru-mobile-menu-overlay"></div>
             </div>
      </div>
-</header>    
+</header>
 
 <header id="haru-header" class="haru-main-header header-1 header-sticky sticky_light" style="height:0px !important;">
     <div class="haru-header-nav-above-wrap">
@@ -278,7 +278,7 @@ var wc_add_to_cart_params = {"ajax_url":"\/clarivo\/wp-admin\/admin-ajax.php","w
 						<a href="index.php" class="logo-sticky" title="Clarivo &#8211; Multipurpose Medical and Pharmacy WordPress theme - The best pharmacy WordPress theme">
 						<img src="../clarivo/Images/mygenic_logo_tm.png" alt="Clarivo &#8211; Multipurpose Medical and Pharmacy WordPress theme - The best pharmacy WordPress theme" style="max-height: 35px" />
 						</a>
-                  </div> 
+                  </div>
                </div>
 			   <div class="headersocial">
 				   <!-- Facebook -->
@@ -322,11 +322,11 @@ var wc_add_to_cart_params = {"ajax_url":"\/clarivo\/wp-admin\/admin-ajax.php","w
 								<li id="menu-item-557" class="haru-menu menu_style_dropdown   menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children level-0 ">
 									<a href="contact-us.php">Contact Us</a><b class="menu-caret"></b>
 								</li>
-                          </ul>                       
+                          </ul>
                       </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-</header> 
+</header>
