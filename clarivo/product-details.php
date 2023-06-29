@@ -48,43 +48,43 @@
                         <div id="product-80"
                             class="clearfix product type-product post-80 status-publish first instock product_cat-capsule product_cat-spray product_cat-vitamin product_tag-inhaler product_tag-paste product_tag-spray product_tag-suppository product_tag-tablet has-post-thumbnail taxable shipping-taxable purchasable product-type-simple">
                             <div class="single-product-top">
-                                <div class="single-product-image-wrap vertical thumbnail-left">
+                                <div class="single-product-image-wrap vertical thumbnail-left" style="margin-right: 30px;">
                                     <div class="product-label">
                                     </div>
                                     <div class="single-product-image-inner">
-                                        <div id="product-images1" class="slider-for" data-slick='{"slidesToShow" : 1, "slidesToScroll": 1, "infinite" : false, "asNavFor" : ".slider-nav" }'>
+                                        <div id="product-images1" class="slider-for" data-slick='{"slidesToShow" : 1, "slidesToScroll": 1, "infinite" : false, "asNavFor" : ".slider-nav" }' style="box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;">
                                             <div class="woocommerce-image-zoom">
-                                              <?php echo '<img class="card-img-top" src="./admin/product_images/'.$row['Product_Image'].'" width="250px"; height="300px"; alt=" ">' ?>
+                                              <?php echo '<img class="card-img-top" src="./admin/product_images/'.$row['Product_Image'].'" width="100px"; height="100px"; alt=" ">' ?>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="summary entry-summary">
+                                <div class="summary entry-summary" style="padding-top: 70px;">
                                     <h1 class="product_title entry-title"><?php echo $row['Product_Name']; ?></h1>
-                                    <div class="product_meta">
+                                    <div class="product_meta" style="border-top: 6px solid #048a9a;border-bottom: 6px solid #048a9a;">
                                         <span class="posted_in">
                                             <span class="label">Product Chemical :</span>
-                                            <a href="#" rel="tag"><?php echo $row['Product_Chemical']; ?></a>
+                                            <a href="#" rel="tag" style="color: #ed6f1e; font-size: 17px;"><?php echo $row['Product_Chemical']; ?></a>
                                         </span>
                                         <span class="posted_in">
                                             <span class="label">Product Form :</span>
-                                            <a href="#" rel="tag"><?php echo $row['Product_Form']; ?></a>
+                                            <a href="#" rel="tag" style="color: #ed6f1e; font-size: 17px;"><?php echo $row['Product_Form']; ?></a>
                                         </span>
                                         <span class="tagged_as">
                                             <span class="label">Company Name :</span>
-                                            <a href="#" rel="tag"><?php echo $row['Company_Name']; ?></a>
+                                            <a href="#" rel="tag" style="color: #ed6f1e; font-size: 17px;"><?php echo $row['Company_Name']; ?></a>
                                         </span>
                                         <span class="tagged_as">
                                             <span class="label">Product Storage :</span>
-                                            <a href="#" rel="tag"><?php echo $row['Product_Storage']; ?></a>
+                                            <a href="#" rel="tag" style="color: #ed6f1e; font-size: 17px;"><?php echo $row['Product_Storage']; ?></a>
                                         </span>
                                         <span class="tagged_as">
                                             <span class="label">Product Packing :</span>
-                                            <a href="#" rel="tag"><?php echo $row['Product_Packing']; ?></a>
+                                            <a href="#" rel="tag" style="color: #ed6f1e; font-size: 17px;"><?php echo $row['Product_Packing']; ?></a>
                                         </span>
                                         <span class="tagged_as">
                                             <span class="label">Product Category :</span>
-                                            <a href="#" rel="tag"><?php echo $row['category_name']; ?></a>
+                                            <a href="#" rel="tag" style="color: #ed6f1e; font-size: 17px;"><?php echo $row['category_name']; ?></a>
                                         </span>
                                     </div>
                                 </div><!-- .summary -->
