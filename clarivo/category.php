@@ -24,6 +24,7 @@
             <h1 style="font-size: 30px;color: #18a0b1;text-align: center; margin-bottom: 20px;" class="vc_custom_heading heading_style_1">OUR CATEGORY</h1>
         </div>
     </div>
+
     <main class="haru-page">
         <div class="container clearfix">
             <div class="row">
@@ -71,7 +72,7 @@
                                                                                             <div class="yith-wcwl-add-button">
                                                                                                 <a href="sub-categoryview.php?Product_Chemical=<?php echo $row['Product_Chemical']; ?>">
                                                                                                     <i class="icofont icofont-eye-alt"></i>
-                                                                                                    <span class="haru-tooltip button-tooltip">View More Products</span>
+                                                                                                    <span class="haru-tooltip button-tooltip">View Sub-Categorys</span>
                                                                                                 </a>
                                                                                             </div>
                                                                                             <!-- COUNT TEXT -->

@@ -72,7 +72,7 @@
                                                                                             <div class="yith-wcwl-add-button">
                                                                                                 <a href="product-details.php?Product_Name=<?php echo $row['Product_Name']; ?>">
                                                                                                     <i class="icofont icofont-eye-alt"></i>
-                                                                                                    <span class="haru-tooltip button-tooltip">View More Products</span>
+                                                                                                    <span class="haru-tooltip button-tooltip">View Details</span>
                                                                                                 </a>
                                                                                             </div>
                                                                                             <!-- COUNT TEXT -->

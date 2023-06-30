@@ -63,7 +63,7 @@
                                                                                             <div class="yith-wcwl-add-button">
                                                                                                 <a href="category.php?category_id=<?php echo $row['category_id']; ?>" >
                                                                                                     <i class="icofont icofont-eye-alt"></i>
-                                                                                                    <span class="haru-tooltip button-tooltip">View More Products</span>
+                                                                                                    <span class="haru-tooltip button-tooltip">View More Category</span>
                                                                                                 </a>
                                                                                             </div>
                                                                                             <!-- COUNT TEXT -->
