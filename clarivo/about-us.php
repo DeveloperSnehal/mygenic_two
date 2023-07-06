@@ -3,7 +3,7 @@
 <!-- Open HARU Content Main -->
 <div id="haru-content-main" class="clearfix">
     <div class="haru-page-title-section"
-        style="background-image: url(../wp-content/themes/clarivo/framework/admin-assets/images/theme-options/bg-page-title.jpg)">
+        style="background-image: url(../clarivo/Images/breadcrumb/about-us.jpg)">
         <section class="haru-page-title-wrapper page-title-wrapper-bg">
             <div class="container">
                 <div class="page-title-inner">
@@ -69,7 +69,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                    
+
                                     <!----------OUR MISSION--VISION-------------->
                                     <div class="haru-archive-department">
                                         <div class="container ">
@@ -96,8 +96,8 @@
                                                                             </div>
                                                                         </div>
                                                                     </div>
-                                                                </div>  
-                                                            </div>                             
+                                                                </div>
+                                                            </div>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -122,8 +122,8 @@
                                                                             </div>
                                                                         </div>
                                                                     </div>
-                                                                </div>  
-                                                            </div>                             
+                                                                </div>
+                                                            </div>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -289,7 +289,7 @@
                         <h3 style="font-size: 30px;color: #18a0b1;text-align: center text-align: left" class="vc_custom_heading heading_style_1">FACTSHEET</h3>
                         <div class="container">
                             <div class="row px-5">
-                                <h5 class="fw-bolder text-decoration-underline">Basic Information</h5> 
+                                <h5 class="fw-bolder text-decoration-underline">Basic Information</h5>
                             </div>
                         </div>
                         <div class="container">

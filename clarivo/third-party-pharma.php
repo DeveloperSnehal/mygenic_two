@@ -3,7 +3,7 @@
 <!-- Open HARU Content Main -->
 <div id="haru-content-main" class="clearfix">
     <div class="haru-page-title-section"
-        style="background-image: url(../wp-content/themes/clarivo/framework/admin-assets/images/theme-options/bg-page-title.jpg)">
+        style="background-image: url(../clarivo/Images/breadcrumb/Third-Party.jpg)">
         <section class="haru-page-title-wrapper page-title-wrapper-bg">
             <div class="container">
                 <div class="page-title-inner">
