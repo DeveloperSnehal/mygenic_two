@@ -56,8 +56,8 @@
                                                                     <h2 style="font-size: 30px;color: #18a0b1;text-align: center" class="vc_custom_heading heading_style_1">ABOUT US</h2>
                                                                     <div class="wpb_text_column wpb_content_element  vc_custom_1515383771311">
                                                                         <div class="wpb_wrapper">
-                                                                            <p>We are a leading pharmaceutical company dedicated to providing high-quality products and services to businesses in the healthcare industry. With our extensive expertise, cutting-edge technologies and commitment to excellence, we aim to be your trusted partner in achieving success and improving patient outcomes.</p>
-                                                                            <p>We are one of the leading Exporter of a premium range of Pharmaceutical Tablets, Pharmaceutical Injection & Anti Cancer Capsules and many more.</p>
+                                                                            <p>We are a leading pharmaceutical company that focuses on supplying high-quality products and services to healthcare businesses. Our goal is to be your trusted partner in achieving success and enhancing patient outcomes by leveraging our extensive knowledge, advanced technologies, and commitment to excellence.</p>
+                                                                            <p>We are one of the leading Exporters of a premium range of Pharmaceutical tablets, Pharmaceutical injections, Anti-Cancer capsules, and many more.</p>
                                                                             <p style="font-size: 17px;"><b>"We have experties in pharmaceutical products from 25 years!"</b></p>
                                                                         </div>
                                                                     </div>
@@ -86,11 +86,11 @@
                                                                             <div class="doctor-list slider-for">
                                                                                 <div class="doctor-item">
                                                                                     <div class="doctor-image">
-                                                                                        <img src="../wp-content/uploads/2017/09/doctor-single-2-270x270.jpg" alt="Dr.Mina Fletcher">
+                                                                                        <img src="../clarivo/Images/mission.jpg" alt="Dr.Mina Fletcher">
                                                                                     </div>
                                                                                     <div class="doctor-info">
                                                                                       <p class="doctor-special">WHO WE ARE WHAT WE DO</p>
-                                                                                        <div class="doctor-content">Our mission at MyGenic Healthcare Private Limited is to provide high-quality, affordable pharmaceutical products to patients around the world. We are committed to developing innovative solutions to complex health challenges and improving patient outcomes through research and development, clinical trials, and partnerships with healthcare professionals.</div>
+                                                                                        <div class="doctor-content">At MyGenic Healthcare Private Limited, our mission is to offer affordable and high-quality pharmaceutical products to patients worldwide. We are committed to developing innovative solutions to complex health problems and improving patient outcomes through research and development, clinical trials, and collaborations with healthcare experts.</div>
                                                                                     </div>
                                                                                 </div>
                                                                             </div>
@@ -112,11 +112,11 @@
                                                                             <div class="doctor-list slider-for">
                                                                                 <div class="doctor-item">
                                                                                     <div class="doctor-image">
-                                                                                        <img src="../wp-content/uploads/2017/09/doctor-single-2-270x270.jpg" alt="Dr.Mina Fletcher">
+                                                                                        <img src="../clarivo/Images/vision.jpg" alt="Dr.Mina Fletcher">
                                                                                     </div>
                                                                                     <div class="doctor-info">
                                                                                         <p class="doctor-special">WHAT WE ASPIRE TODAY</p>
-                                                                                        <div class="doctor-content">Our vision at MyGenic Healthcare Private Limited is to become a global leader in the pharmaceutical industry, known for our excellence in research and development, quality products, and customer-centric approach. We aim to improve the lives of patients and make a significant contribution to global healthcare through our commitment to innovation, sustainability, and social responsibility.</div>
+                                                                                        <div class="doctor-content">At MyGenic Healthcare Private Limited, our vision is to be a global leader in the pharmaceutical industry. We want to be known for our exceptional research and development, high-quality products, and customer-focused approach. Our goal is to improve the lives of patients and make a meaningful impact on world healthcare. We are committed to innovation, sustainability, and social responsibility in all that we do.</div>
                                                                                     </div>
                                                                                 </div>
                                                                             </div>

@@ -294,9 +294,9 @@
                                         <h4 style="text-align: left" class="vc_custom_heading default">Welcome to</h4><h2 style="color: #ed6f1e;text-align: left" class="vc_custom_heading default">Mygenic Health Care</h2>
                                             <div class="wpb_text_column wpb_content_element  vc_custom_1515383771311" >
                                                 <div class="wpb_wrapper">
-                                                    <p>Established at Navi Mumbai (Maharashtra), We,“MyGenic Healthcare Private Limited” are one of the leading Exporter of a premium range of Pharmaceutical Tablets, Pharmaceutical Injection & Anti Cancer Capsules and many more.</p>
-                                                    <p>MyGenic Healthcare Private Limited is a reputable company that specializes in the production and export of high-quality pharmaceutical products. We are based in Navi Mumbai, Maharashtra, and have gained a strong foothold in the industry through our commitment to providing superior products and services to our clients.</p>
-                                                    <p>We offer a wide range of pharmaceutical products, including tablets, injections, capsules, and more. Our products are manufactured in state-of-the-art facilities using the latest technology and in strict adherence to industry regulations and quality standards. This ensures that our products are safe, effective, and of the highest quality.</p>
+                                                    <p>MyGenic Healthcare Private Limited is a well-established company located in Navi Mumbai, Maharashtra. We are known for being a leading exporter of top-quality pharmaceutical products. Our focus is on manufacturing and exporting pharmaceutical tablets, injections, anti-cancer capsules, and other related items.</p>
+                                                    <p>We have built a strong reputation in the industry by consistently delivering superior products and services to our valued clients. Our commitment to excellence has allowed us to gain a significant presence in the market.</p>
+                                                    <p>At MyGenic Healthcare Private Limited, we offer a wide range of pharmaceutical products to meet a variety of demands. Our state-of-the-art facilities utilize the latest technology, ensuring that our products are manufactured with the highest accuracy. We strictly adhere to industry regulations and quality standards during the production process. This ensures that our products are not only safe but also highly effective, meeting the highest standards of quality.</p>
                                                     <p style="font-size: 17px;"><b>"We have experties in pharmaceutical products from 25 years!"</b></p>
                                                 </div>
                                             </div>
@@ -379,7 +379,7 @@
                         <div class="banner-shortcode-wrap style_7 ">
                             <div class="banner-content-wrap">
                                 <div class="banner-content-inner">
-                                    <img src="../clarivo/Images/SERVICES WE PROVIDE/COLD-CHAIN-SHIPPING.jpg" alt="">
+                                    <img src="../clarivo/Images/SERVICES WE PROVIDE/COLD-CHAIN-SHIPPING02.jpg" alt="">
                                 </div>
                            </div>
                         </div>
@@ -428,22 +428,15 @@
                  <div class="section-head">
                      <h1 style="font-size: 30px;color: #18a0b1;text-align: center" class="vc_custom_heading heading_style_1"data-aos="zoom-in"><span>Who</span> we are?</h1>
                   </div>
-                  <p  class="wpb_wrapper" data-aos="zoom-out">We are a pharmaceutical company that is committed to improving
-                       the health and wellbeing of people globally. Our team of experienced professionals includes scientists,
-                       researchers, and pharmaceutical experts who are dedicated to developing innovative solutions to address some
-                      of the most pressing healthcare issues of our time.</p>
-                   <p class="wpb_wrapper" data-aos="zoom-out">We specialize in the development, manufacturing, and distribution
-                      of high-quality pharmaceutical products that meet the needs of patients, healthcare providers, and partners
-                       worldwide. Our products are made using the latest technologies and adhere to strict quality control measures
-                       to ensure safety and efficacy.</p>
-                   <p class="wpb_wrapper" data-aos="zoom-out">At our core, we are a customer-focused company that believes in building long-term relationships with our customers and partners by providing exceptional customer service and support. We listen to our customers' needs and work collaboratively to develop tailored solutions that meet their unique requirements.</p>
+                  <p  class="wpb_wrapper" data-aos="zoom-out">We are a pharmaceutical company devoted to enhancing the health and wellness of individuals on a global scale. Our team consists of skilled professionals, including scientists, researchers, and pharmaceutical experts, who are fully committed to finding inventive solutions for the most critical healthcare challenges of our era.</p>
+                   <p class="wpb_wrapper" data-aos="zoom-out">Our core expertise lies in the creation, production, and distribution of top-notch pharmaceutical products that effectively cater to the requirements of patients, healthcare providers, and partners across the globe. Employing state-of-the-art technologies, our products undergo stringent quality control measures to guarantee safety and effectiveness.</p>
               </div>
           </div>
           <!-- Image Column -->
           <div class="image-column col-lg-6 col-md-12 col-sm-12">
              <div class="inner-column">
                   <figure class="image-1">
-                      <img src="../clarivo/Images/how we do/manufacturing.png" alt="pharma manufacturing machine mygenic" class="img-fluid">
+                      <img src="../clarivo/Images/how we do/manufacturing.png" alt="pharma manufacturing machine mygenic" class="img-fluid" style="height: 350px;">
                   </figure>
              </div>
           </div>
