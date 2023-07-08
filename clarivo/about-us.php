@@ -280,10 +280,10 @@
 <!-- Close HARU Content Main -->
 
 <!--------------------------------FACTSHEET---------------------------------------------->
-<section id="ourproducts" class="section-bg">
+<!-- <section id="ourproducts" class="section-bg">
         <div class="container">
             <div class="row">
-               <!-------------second-colum----------------->
+               <-------------second-colum-----------------
                 <div class="col-lg-12 col-md-12 col-sm-12 mt-2 card" data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-duration="2000">
                     <div class="row">
                         <h3 style="font-size: 30px;color: #18a0b1;text-align: center text-align: left" class="vc_custom_heading heading_style_1">FACTSHEET</h3>
@@ -467,7 +467,7 @@
             </div>
         </div>
     </section>
-</section>
+</section> -->
 
 
 <!-------------------------Photo Gallery---------------------------------------->

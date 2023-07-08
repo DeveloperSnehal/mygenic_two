@@ -467,53 +467,53 @@
                                     <div class="testimonial-item">
                                     <div class="testimonial-image">
                                         <div class="quote-sign"></div>
-                                        <img width="110" height="110" src="../Images/testimonials/testimonial-1.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" srcset="Images/testimonials/testimonial-1.png 100w" sizes="(max-width: 110px) 100vw, 110px" />
+                                        <img width="110" height="110" src="../Images/testimonials/profile1.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" srcset="Images/testimonials/profile1.png 100w" sizes="(max-width: 110px) 100vw, 110px" />
                                     </div>
                                         <div class="testimonial-content">
                                             <p class="text-testimonial">“The team at MyGenic Healthcare responded quickly to an urgent project request. Our project timelines were jeopardized by an unforeseen issue with another vendor and MyGenic came to the rescue.”</p>
-                                        <div class="testimonial-author-meta">
-                                                <h3 class="testimonial-title">Jatin Chopra</h3>
+                                        <!-- <div class="testimonial-author-meta">
+                                                 <h3 class="testimonial-title">Jatin Chopra</h3>
                                                 <p class="testimonial-position">Production Executive</p>
-                                            </div>
+                                            </div> -->
                                         </div>
                                     </div>
                                     <div class="testimonial-item">
                                         <div class="testimonial-image">
                                             <div class="quote-sign"></div>
-                                            <img width="110" height="110" src="../Images/testimonials/testimonial-2.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" srcset="Images/testimonials/testimonial-2.png 100w" sizes="(max-width: 110px) 100vw, 110px" />
+                                            <img width="110" height="110" src="../Images/testimonials/profile2.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" srcset="Images/testimonials/profile2.png 100w" sizes="(max-width: 110px) 100vw, 110px" />
                                         </div>
                                         <div class="testimonial-content">
                                             <p class="text-testimonial">“In my first project with MyGenic Healthcare I was so impressed with their responsiveness and scientific approach to issues that I have them at the top of my list for quoting on any work in their wheelhouse.”</p>
-                                            <div class="testimonial-author-meta">
+                                            <!-- <div class="testimonial-author-meta">
                                                 <h3 class="testimonial-title">Shweta Chavhan</h3>
                                                 <p class="testimonial-position">Analytical Chemist</p>
-                                            </div>
+                                            </div> -->
                                         </div>
                                     </div>
                                     <div class="testimonial-item">
                                         <div class="testimonial-image">
                                             <div class="quote-sign"></div>
-                                            <img width="110" height="110" src="../Images/testimonials/testimonial-3.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" srcset="Images/testimonials/testimonial-3.png 100w" sizes="(max-width: 110px) 100vw, 110px" />
+                                            <img width="110" height="110" src="../Images/testimonials/profile1.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" srcset="Images/testimonials/profile1.png 100w" sizes="(max-width: 110px) 100vw, 110px" />
                                         </div>
                                         <div class="testimonial-content">
                                             <p class="text-testimonial">“MyGenic Healthcare came to our rescue and allowed us to get our Phase I trial back on track after a well-known CDMO failed to release our CTM. We are now recruiting patients, thanks to MyGenic Healthcare!.”<p>
-                                            <div class="testimonial-author-meta">
+                                            <!-- <div class="testimonial-author-meta">
                                                 <h3 class="testimonial-title">Nikhil Shinde</h3>
                                                 <p class="testimonial-position">R and D chemist</p>
-                                            </div>
+                                            </div> -->
                                         </div>
                                     </div>
                                     <div class="testimonial-item">
                                     <div class="testimonial-image">
                                         <div class="quote-sign"></div>
-                                        <img width="110" height="110" src="../wp-content/uploads/2017/09/testimonial-1.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" srcset="https://demo.harutheme.com/clarivo/wp-content/uploads/2017/09/testimonial-1.png 110w, https://demo.harutheme.com/clarivo/wp-content/uploads/2017/09/testimonial-1-100x100.png 100w" sizes="(max-width: 110px) 100vw, 110px" />
+                                        <img width="110" height="110" src="../Images/testimonials/profile2.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" srcset="Images/testimonials/profile2.png 110w, https://demo.harutheme.com/clarivo/wp-content/uploads/2017/09/testimonial-1-100x100.png 100w" sizes="(max-width: 110px) 100vw, 110px" />
                                         </div>
                                         <div class="testimonial-content">
                                             <p class="text-testimonial">“MyGenic Healthcare came to our rescue and allowed us to get our Phase I trial back on track after a well-known CDMO failed to release our CTM. We are now recruiting patients, thanks to MyGenic Healthcare!.”</p>
-                                        <div class="testimonial-author-meta">
+                                        <!-- <div class="testimonial-author-meta">
                                             <h3 class="testimonial-title">Mr. Will Smith</h3>
                                             <p class="testimonial-position">Graphic Designer - 008 123 4896</p>
-                                        </div>
+                                        </div> -->
                                     </div>
                                 </div>
                             </div>
@@ -526,7 +526,7 @@
 </div></div></div></div>
 
 <div class="vc_row-full-width vc_clearfix"></div>
-    <div class="vc_row wpb_row vc_row-fluid vc_custom_1515381052237">
+    <!-- <div class="vc_row wpb_row vc_row-fluid vc_custom_1515381052237">
         <div class="wpb_column vc_column_container vc_col-sm-12">
             <div class="vc_column-inner">
                 <div class="wpb_wrapper">
@@ -631,7 +631,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 </div>
 
 

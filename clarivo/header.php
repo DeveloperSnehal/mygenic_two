@@ -11,7 +11,7 @@
         <link rel="profile" href="http://gmpg.org/xfn/11">
                                             <link rel="shortcut icon" href="Images/mygenic_favicon.png" />
                             				<script>document.documentElement.className = document.documentElement.className + ' yes-js js_active js'</script>
-				<title>Clarivo &#8211; Multipurpose Medical and Pharmacy WordPress theme &#8211; The best pharmacy WordPress theme</title>
+				<title>MyGenic Healthcare</title>
 <meta name='robots' content='max-image-preview:large' />
 <link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
 <link rel='dns-prefetch' href='http://s.w.org/' />
